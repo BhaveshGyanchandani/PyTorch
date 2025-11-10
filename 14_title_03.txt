@@ -1,0 +1,477 @@
+0 | Galactorrhea
+35 | Galactosemia
+91 | Gallbladder cancer
+133 | Gallbladder nuclear medicine scan
+166 | Gallbladder x rays
+197 | Gallium scan of the body
+240 | Gallstone removal
+284 | Gallstones
+369 | Gammaglobulin
+404 | Ganglion
+440 | Gangrene
+498 | Gas embolism
+533 | Gastrectomy
+577 | Gastric acid determination
+622 | Gastric emptying scan
+652 | Gastrinoma
+695 | Gastritis
+767 | Gastroenteritis
+814 | Gastrostomy
+844 | Gaucher disease
+896 | Gay and lesbian health
+953 | Gender identity disorder
+987 | Gender reassignment surgery
+1039 | Gene therapy
+1141 | General adaptation syndrome
+1201 | General surgery
+1243 | Generalized anxiety disorder
+1284 | Genetic counseling
+1354 | Genetic testing
+1500 | Genital herpes
+1567 | Genital warts
+1611 | Gestalt therapy
+1639 | Gestational diabetes
+1683 | GI bleeding studies
+1715 | Giardiasis
+1761 | Ginkgo biloba
+1790 | Ginseng, Korean
+1841 | Glaucoma
+1921 | Glomerulonephritis
+1970 | Glucose-6-phosphate dehydrogenase deficiency
+2026 | Glycogen storage diseases
+2088 | Glycosylated hemoglobin test
+2125 | Goiter
+2164 | Gonorrhea
+2243 | Goodpasture’s syndrome
+2276 | Gout
+2339 | Gout drugs
+2395 | Graft-vs.-host disease
+2433 | Granuloma inguinale
+2470 | Group therapy
+2510 | Growth hormone tests
+2585 | Guided imagery
+2634 | Guillain-Barre syndrome
+2667 | Guinea worm infection
+2698 | Gulf War syndrome
+2742 | Gynecomastia
+2936 | Hair transplantation
+2979 | Hairy cell leukemia
+3061 | Hallucinations
+3097 | Hammertoe
+3130 | Hand-foot-and-mouth disease
+3165 | Hantavirus infections
+3237 | Haptoglobin test
+3269 | Hartnup disease
+3302 | Hatha yoga
+3353 | Head and neck cancer
+3377 | Physical examination
+3433 | Head injury
+3529 | Headache
+3591 | Hearing aids
+3653 | Hearing loss
+3724 | Hearing tests with a tuning fork
+3756 | Heart attack
+3845 | Heart block
+3871 | Heart failure
+3984 | Heart murmurs
+4021 | Heart surgery for congenital defects
+4075 | Heart transplantation
+4186 | Heart valve repair
+4221 | Heart valve replacement
+4272 | Heartburn
+4360 | Heat disorders
+4405 | Heat treatments
+4448 | Heavy metal poisoning
+4500 | Heel spurs
+4541 | Heimlich maneuver
+4593 | Helicobacteriosis
+4645 | Hellerwork
+4699 | Hematocrit
+4780 | Hemoglobin electrophoresis
+4837 | Hemoglobin test
+4869 | Hemoglobinopathies
+4930 | Hemolytic anemia
+4962 | Hemolytic-uremic syndrome
+4995 | Hemophilia
+5067 | Hemophilus infections
+5132 | Hemoptysis
+5181 | Hemorrhagic fevers
+5258 | Hemorrhoids
+5304 | Hepatitis A
+5346 | Hepatitis, alcoholic
+5376 | Hepatitis, autoimmune
+5402 | Hepatitis B
+5462 | Hepatitis C
+5515 | Hepatitis D
+5555 | Hepatitis, drug-induced
+5590 | Hepatitis E
+5621 | Hepatitis G
+5646 | Hepatitis virus tests
+5701 | Herbalism, traditional Chinese
+5767 | Herbalism, Western
+5842 | Hereditary fructose intolerance
+5869 | Hereditary hemorrhagic telangiectasia
+5895 | Hernia
+5949 | Hernia repair
+6004 | Herniated disk
+6063 | Hiccups
+6107 | High-risk pregnancy
+6142 | Hirschsprung’s disease
+6195 | Hirsutism
+6235 | Histiocytosis X
+6292 | Histoplasmosis
+6337 | Hives
+6383 | Hodgkin’s disease
+6505 | Holistic medicine
+6595 | Holter monitoring
+6629 | Holtzman ink blot test
+6653 | Homeopathic medicine
+6722 | Homeopathic medicine, acute prescribing
+6790 | Homeopathic medicine, constitutional prescribing
+6864 | Homocysteine
+6915 | Hookworm disease
+6950 | Hormone replacement therapy
+7081 | Hospital-acquired infections
+7143 | Human-potential movement
+7172 | Human bite infections
+7202 | Human chorionic gonadotropin pregnancy test
+7244 | Human leukocyte antigen test
+7278 | Huntington disease
+7351 | Hydatidiform mole
+7384 | Hydrocelectomy
+7413 | Hydrocephalus
+7475 | Hydronephrosis
+7519 | Hydrotherapy
+7606 | Hyperaldosteronism
+7644 | Hyperbaric Chamber
+7693 | Hypercalcemia
+7743 | Hypercholesterolemia
+7815 | Hypercoagulation disorders
+7852 | Hyperemesis gravidarum
+7877 | Hyperhidrosis
+7925 | Hyperkalemia
+7956 | Hyperlipoproteinemia
+8032 | Hypernatremia
+8062 | Hyperopia
+8101 | Hyperparathyroidism
+8139 | Hyperpigmentation
+8174 | Hypersensitivity pneumonitis
+8213 | Hypersplenism
+8249 | Hypertension
+8386 | Hyperthyroidism
+8431 | Hypertrophic cardiomyopathy
+8470 | Hyphema
+8495 | Hypnotherapy
+8549 | Hypocalcemia
+8579 | Hypochondriasis
+8609 | Hypoglycemia
+8710 | Hypogonadism
+8744 | Hypokalemia
+8782 | Hypolipoproteinemia
+8810 | Hyponatremia
+8845 | Hypoparathyroidism
+8874 | Hypophysectomy
+8904 | Hypopituitarism
+8999 | Hypospadias and epispadias
+9072 | Hypotension
+9105 | Hypothermia
+9149 | Hypothyroidism
+9222 | Hypotonic duodenography
+9252 | Hysterectomy
+9329 | Hysteria
+9377 | Hysterosalpingography
+9414 | Hysteroscopy
+9458 | Hysterosonography
+9507 | Ichthyosis
+9573 | Idiopathic infiltrative lung diseases
+9610 | Idiopathic primary renal hematuric/proteinuric syndrome
+9652 | Idiopathic thrombocytopenic purpura
+9706 | Ileus
+9755 | Immobilization
+9810 | Immune complex test
+9842 | Immunodeficiency
+9915 | Immunoelectrophoresis
+9962 | Immunoglobulin deficiency syndromes
+10004 | Immunologic therapies
+10117 | Immunosuppressant drugs
+10210 | Impacted tooth
+10237 | Impedance phlebography
+10272 | Impetigo
+10305 | Implantable cardioverter-defibrillator
+10343 | Impotence
+10417 | Impulse control disorders
+10482 | In vitro fertilization
+10537 | Inclusion conjunctivitis
+10573 | Incompetent cervix
+10602 | Indigestion
+10681 | Indium scan of the body
+10707 | Induction of labor
+10733 | Infant massage
+10773 | Infection control
+10850 | Infectious arthritis
+10908 | Infectious mononucleosis
+10952 | Infertility
+11037 | Infertility drugs
+11091 | Infertility therapies 
+11154 | Influenza
+11243 | Inhalation therapies
+11364 | Insecticide poisoning
+11411 | Insomnia
+11468 | Insulin resistance
+11598 | Intermittent claudication
+11666 | Intermittent explosive disorder
+11734 | Intersex states
+11768 | Interstitial microwave thermal therapy
+11828 | Intestinal obstructions
+11894 | Intestinal polyps
+11937 | Intrauterine growth retardation
+11979 | Intravenous rehydration
+12003 | Intravenous urography
+12045 | Intussusception
+12076 | Ipecac
+12175 | Iron deficiency anemia 
+12217 | Iron tests
+12319 | Irritable bowel syndrome
+12369 | Ischemia
+12454 | Isolation
+12510 | Itching
+12612 | IUD
+12640 | Japanese encephalitis
+12686 | Jaundice
+12789 | Jaw wiring
+12819 | Jet lag
+12874 | Jock itch
+12913 | Joint biopsy
+12939 | Joint fluid analysis
+12974 | Joint replacement
+13021 | Juvenile arthritis
+13090 | Kaposi’s sarcoma
+13159 | Kawasaki syndrome
+13211 | Keloids
+13259 | Keratitis
+13350 | Keratosis pilaris
+13375 | Kidney biopsy
+13415 | Kidney cancer
+13482 | Kidney disease
+13543 | Kidney function tests
+13597 | Kidney nuclear medicine scan
+13642 | Kidney stones
+13689 | Kidney transplantation
+13753 | Kidney, ureter, and bladder x-ray study
+13785 | Kinesiology, applied
+13819 | Klinefelter syndrome
+13876 | Knee injuries
+13922 | Kneecap removal
+13954 | KOH test
+13980 | Korsakoff’s syndrome
+14011 | Kyphosis
+14050 | Labyrinthitis
+14089 | Laceration repair
+14129 | Lacrimal duct obstruction
+14164 | Lactate dehydrogenase isoenzymes test
+14205 | Lactate dehydrogenase test
+14234 | Lactation
+14285 | Lactic acid test
+14317 | Lactose intolerance
+14354 | Laparoscopy
+14425 | Laryngeal cancer
+14530 | Laryngectomy
+14578 | Laryngitis
+14619 | Laryngoscopy
+14636 | Laser surgery
+14769 | Laxatives
+14817 | Lead poisoning
+14930 | Learning disorders
+14975 | Leeches
+15003 | Legionnaires’ disease
+15052 | Leishmaniasis
+15112 | Leprosy
+15183 | Leptospirosis
+15239 | Lesch-Nyhan syndrome
+15295 | Leukemia stains
+15344 | Leukemias, acute
+15430 | Leukemias, chronic
+15508 | Leukocytosis
+15536 | Leukotriene inhibitors
+15657 | Lice infestation
+15723 | Lichen planus
+15751 | Lichen simplex chronicus
+15781 | Life support
+15903 | Lipase test
+15933 | Lipidoses
+16016 | Lipoproteins test
+16072 | Liposuction
+16133 | Listeriosis
+16184 | Lithotripsy
+16218 | Liver biopsy
+16280 | Liver cancer
+16387 | Liver disease
+16465 | Liver encephalopathy
+16514 | Liver function tests
+16574 | Liver nuclear medicine scan
+16609 | Liver transplantation
+16666 | Low back pain
+16750 | Lower esophageal ring
+16792 | Lumpectomy
+16842 | Lung abscess
+16891 | Lung biopsy
+16950 | Lung cancer, non-small cell
+17062 | Lung cancer, small cell
+17137 | Lung diseases due to gas or chemical exposure
+17184 | Lung perfusion and ventilation scan
+17216 | Lung surgery
+17253 | Lung transplantation
+17291 | Luteinizing hormone test
+17316 | Lyme disease
+17409 | Lymph node biopsy
+17452 | Lymphadenitis
+17496 | Lymphangiography
+17524 | Lymphedema
+17602 | Lymphocyte typing
+17634 | Lymphocytic choriomeningitis
+17650 | Lymphocytopenia
+17689 | Lymphogranuloma venereum
+17732 | Lysergic acid diethylamide (LSD)
+17771 | Macular degeneration
+17822 | Magnesium imbalance
+17887 | Magnetic field therapy
+17929 | Magnetic resonance imaging
+18012 | Malabsorption syndrome
+18086 | Malaria
+18175 | Malignant lymphomas
+18234 | Malignant melanoma
+18358 | Malingering
+18390 | Mallet finger
+18426 | Mallory-Weiss syndrome
+18456 | Malnutrition
+18557 | Malocclusion
+18597 | MALT lymphoma
+18637 | Mammography
+18693 | Mania
+18725 | Marfan syndrome
+18823 | Marijuana
+18886 | Marriage counseling
+18906 | Marshall-Marchetti-Krantz procedure
+18943 | Massage therapy
+19017 | Mastectomy
+19083 | Mastitis
+19111 | Mastocytosis
+19140 | Mastoidectomy
+19180 | Mastoiditis
+19209 | Maternal to fetal infections
+19528 | Maxillofacial trauma
+19602 | Measles
+19659 | Meckel’s diverticulum
+19720 | Mediastinoscopy
+19780 | Meditation
+19846 | Medullary sponge kidney
+19872 | Melioidosis
+19900 | Méniére’s disease
+19965 | Meningitis
+20032 | Meningococcemia
+20062 | Menopause
+20197 | Men’s health
+20290 | Menstrual disorders
+20412 | Mental retardation
+20482 | Mental status examination
+20538 | Mesothelioma
+20613 | Metabolic acidosis
+20642 | Metabolic alkalosis
+20670 | Methadone
+20763 | Methemoglobinemia
+20806 | Microphthalmia and anophthalmia
+20838 | Mifepristone
+20876 | Migraine headache
+20995 | Mineral deficiency
+21050 | Mineral toxicity
+21087 | Minerals
+21123 | Minnesota multiphasic personality inventory (MMPI-2)
+21152 | Minority health
+21207 | Minoxidil
+21297 | Miscarriage
+21319 | Mitral valve insufficiency
+21352 | Mitral valve prolapse
+21387 | Mitral valve stenosis
+21417 | Moles
+21490 | Monkeypox
+21544 | Monoamine oxidase inhibitors
+21625 | Mood disorders
+21677 | Motion sickness
+21761 | Movement disorders
+21849 | Movement therapy
+21906 | Mucopolysaccharidoses
+21981 | Mucormycosis
+22033 | Multiple-gated acquisition (MUGA) scan
+22074 | Multiple chemical sensitivity
+22134 | Multiple endocrine neoplasia syndromes
+22181 | Multiple myeloma
+22370 | Multiple personality disorder
+22438 | Multiple pregnancy
+22476 | Multiple sclerosis
+22579 | Mumps
+22649 | Munchausen syndrome
+22677 | Muscle relaxants
+22716 | Muscle spasms and cramps
+22757 | Muscular dystrophy
+22863 | Mushroom poisoning
+22900 | Music therapy
+22949 | Mutism
+22975 | Myasthenia gravis
+23036 | Mycetoma
+23069 | Mycobacterial infections, atypical
+23101 | Mycoplasma infections
+23126 | Myelodysplastic syndrome
+23187 | Myelofibrosis
+23246 | Myelography
+23286 | Myers-Briggs type indicator
+23328 | Myocardial biopsy
+23354 | Myocardial resection
+23382 | Myocarditis
+23445 | Myoglobin test
+23481 | Myomectomy
+23515 | Myopathies
+23582 | Myopia
+23671 | Myositis
+23736 | Myotonic dystrophy
+23802 | Myringotomy and ear tubes
+23855 | Myxoma
+23882 | Nail-patella syndrome
+23930 | Nail removal
+23971 | Narcolepsy
+24020 | Narcotics
+24072 | Nasal irrigation
+24102 | Nasal packing
+24136 | Nasal papillomas
+24158 | Nasal polyps
+24201 | Nasal trauma
+24310 | Nasogastric suction
+24341 | Nasopharyngeal culture
+24389 | Naturopathic medicine
+24453 | Nausea and vomiting
+24531 | Near-drowning
+24559 | Necrotizing enterocolitis
+24600 | Neonatal jaundice
+24639 | Nephrectomy
+24670 | Nephritis
+24715 | Nephrotic syndrome
+24752 | Nephrotoxic injury
+24808 | Neuralgia
+24861 | Neuroblastoma
+24939 | Neuroendocrine tumors
+24976 | Neurofibromatosis
+25026 | Neurogenic bladder
+25077 | Neurolinguistic programming
+25107 | Neurologic exam
+25175 | Neutropenia
+25232 | Night terrors
+25271 | Nitrogen narcosis
+25302 | Nocardiosis
+25331 | Non-nucleoside reverse transcriptase inhibitors
+25354 | Nongonococcal urethritis
+25516 | Noroviruses
+25690 | Nosebleed
+25744 | Numbness and tingling
+25793 | Nutrition
+25884 | Nutrition through an intravenous line
+25917 | Nutritional supplements
+25980 | Nystagmus

@@ -1,0 +1,158 @@
+366 for this is Abdominal ultrasound
+463 for this is Abdominal wall defects
+495 for this is Abortion, partial birth
+679 for this is | Abscess
+744 for this is Abscess incision & drainage
+877 for this is Achalasia
+920 for this is Achondroplasia
+1000 for this is | Acne
+1200 for this is AIDS
+1228 for this is Acromegaly and gigantism
+1289 for this is Actinomycosis
+1291 for this is Actinomycosis
+1566 for this is Acute lymphangitis
+1603 for this is Acute oststreptococcal glomerulonephritis
+1826 for this is Adenoid hyperplasia
+1876 for this is Acquired immunity
+1890 for this is Adult infections
+1935 for this is Adjustment disorders
+1989 for this is Adrenal gland cancer
+2150 for this is Adrenocorticotropic hormone test
+2163 for this is Addison’s disease
+2220 for this is Adult respiratory distress syndrome
+2386 for this is Agoraphobia
+2422 for this is | AIDS
+2844 for this is Alcohol-related neurologic disease
+2919 for this is Alcoholism
+3056 for this is Aldosterone assay
+3238 for this is Allergic bronchopulmonary aspergillosis
+3306 for this is Allergic purpura
+3349 for this is Allergic rhinitis
+3471 for this is Allergies
+3647 for this is Allergy tests
+3715 for this is | Alopecia
+3774 for this is Alpha-fetoprotein test
+3835 for this is Alpha,-adrenergic blockers
+3893 for this is Alport syndrome
+3958 for this is Altitude sickness
+4004 for this is Alzheimer’s disease
+4131 for this is Amblyopia
+4181 for this is Amebiasis
+4266 for this is Amenorrhea
+4328 for this is | mino acid disorders screening
+4344 for this is Blood plasma screening
+4379 for this is Aminoglycosides
+4845 for this is Anaerobic infections
+4928 for this is Anal cancer
+5043 for this is Analgesics
+5271 for this is Anemias
+5438 for this is Aplastic anemia
+5528 for this is Anesthetics: How They Work
+5598 for this is Anesthesia, local
+5750 for this is Angina
+5756 for this is Angina of effort
+6040 for this is Angiotensin-converting enzyme test
+6128 for this is Ankylosing spondy
+6186 for this is Anorectal disorders
+6212 for this is Anorexia nervosa
+6414 for this is Antacids
+6545 for this is Biophysical profile
+6987 for this is Antiasthmatic drugs
+7027 for this is Antibiotic-associated colitis
+7147 for this is Antibiotics, ophthalmic
+7183 for this is Antibiotics, topical
+7229 for this is «rash
+7289 for this is Anti Cancer Drugs (continues
+7639 for this is Antidepressants, tricyclic
+7689 for this is «asthma
+7949 for this is ¢ diarrhea
+8031 for this is Antigas agents
+8225 for this is Antihistamines
+8345 for this is Anti-Insomnia Drugs
+9149 for this is Antiseptics
+9186 for this is Antispasmodic drugs
+9243 for this is Antituberculosis drugs
+9680 for this is Aortic dissection
+9713 for this is Aortic valve insufficiency
+9751 for this is Aortic valve stenosis
+9846 for this is | Aphasia
+9922 for this is Aplastic anemia
+9970 for this is Appendectomy
+10230 for this is Arbovirus encephalitis
+10361 for this is Arrhythmias
+10419 for this is Arterial embolism
+10464 for this is Arteriovenous fistula
+10487 for this is Arteriovenous malforma ns
+10545 for this is Arthrography
+10588 for this is Arthroplasty
+10678 for this is Arthroscopy
+10793 for this is Asbestosis
+10970 for this is Aspergillosis
+11125 for this is Adult-onset asthma
+11291 for this is Ataxia-telangiectasia
+11436 for this is Atheroscleros
+11542 for this is Athlete’s foot
+11605 for this is Athletic heart syndrome
+11687 for this is Atopic dermatitis
+11783 for this is Atrial ectopic beats
+11809 for this is Atrial fibrillation and flutter
+11888 for this is Atrial septal defect
+12144 for this is + fragile X syndrome
+12253 for this is Autoimmune disorders
+12411 for this is Bone and muscle loss
+12444 for this is Ayurvedic medicine
+12530 for this is Babesiosis
+12565 for this is Bacillary angiomatosis
+12600 for this is Bacteremia
+12664 for this is Bad breath
+12780 for this is Balantidiasis
+12829 for this is Balloon valvuloplasty
+12867 for this is Barbiturate-induced coma
+13013 for this is Barium enema
+13136 for this is Bartonellos
+13211 for this is Bed-wetting
+13296 for this is Bedsores
+13403 for this is Behcet’s syndrome
+13536 for this is Bence Jones protein test
+13721 for this is | Beriberi
+13969 for this is Bile duct cancer
+14031 for this is Biliary atresia
+14073 for this is Binge-eating disorder
+14186 for this is Bipolar disorder
+14286 for this is Birth defects
+14660 for this is Black lung disease
+14700 for this is Bladder cancer
+14709 for this is Bladder cancer on the inner lining of the bladder. (///ustration by Argosy Inc.)
+14781 for this is Bladder stones
+14828 for this is Bladder training
+14865 for this is Blastomycosis
+15006 for this is Blepharoplasty
+15132 for this is Blood culture
+15257 for this is Blood gas analysis
+15306 for this is Blood sugar tests
+15390 for this is Blood typing
+15499 for this is Abnormally high BUN
+15773 for this is Bone grafting
+15945 for this is Bone marrow transplantation
+16202 for this is Botulism
+16273 for this is Bovine spongiform encephalopathy Creutzfeldt-Jakob disease
+16277 for this is Bowel preparation
+16322 for this is Bowel resection
+16372 for this is Bowel training
+16409 for this is Brain abscess
+16509 for this is Benign brain tumors
+16785 for this is Breast cancer
+16953 for this is Breast implants
+16991 for this is Breast reconstruction
+17108 for this is Breast self-examination
+17243 for this is Bronchiectasis
+17284 for this is Bronchitis
+17298 for this is Acute bronchitis
+17316 for this is Acute bronchitis
+17452 for this is Bronchoscopy
+17639 for this is Budd-Chiari syndrome
+17710 for this is Bulimia nervosa
+17786 for this is Bundle branch block
+17864 for this is Burns
+17937 for this is Bursitis
+17985 for this is Byssinosis

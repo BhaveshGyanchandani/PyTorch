@@ -1,0 +1,286 @@
+0 | Title | Abdominal ultrasound | Yes
+93 | Title | Abdominal wall defects | Yes
+122 | Title | Abortion, partial birth | Yes
+158 | Title | Abortion, selective | Yes
+193 | Title | Abortion, therapeutic | Yes
+298 | Title | | Abscess | Yes
+359 | Title | Abscess incision & drainage | Yes
+392 | Title | Abuse | Yes
+448 | Title | Acetaminophen | Yes
+479 | Title | Achalasia | Yes
+521 | Title | Achondroplasia | Yes
+560 | Title | Acid phosphatase test | Yes
+594 | Title | | Acne | Yes
+700 | Title | Acoustic neuroma | Yes
+786 | Title | Acrocyanosis | Yes
+808 | Title | Acromegaly and gigantism | Yes
+869 | Title | Actinomycosis | Yes
+897 | Title | Acupressure | Yes
+969 | Title | Acupuncture | Yes
+1034 | Title | Acute kidney failure | Yes
+1126 | Title | Acute lymphangitis | Yes
+1159 | Title | Acute oststreptococcal glomerulonephritis | Yes
+1193 | Title | Acute stress disorder | Yes
+1323 | Title | dison’s disease | Yes
+1369 | Title | Adenoid hyperplasia | Yes
+1408 | Title | denovirus infections | Yes
+1469 | Title | Adjustment disorders | Yes
+1521 | Title | Adrenal gland cancer | Yes
+1552 | Title | Adrenal gland scan | Yes
+1586 | Title | Adrenal virilism | Yes
+1618 | Title | Adrenalectomy | Yes
+1669 | Title | Adrenocorticotropic hormone test | Yes
+1682 | Title | Addison’s disease | Yes
+1735 | Title | Adult respiratory distress syndrome | Yes
+1795 | Title | i & | Yes
+1891 | Title | Agoraphobia | Yes
+1927 | Title | | AIDS | Yes
+2089 | Title | AIDS tests | Yes
+2223 | Title | Alanine aminotransferase test | Yes
+2247 | Title | Albinism | Yes
+2318 | Title | Alcohol-related neurologic disease | Yes
+2386 | Title | Alcoholism | Yes
+2478 | Title | Aldolase test | Yes
+2512 | Title | Aldosterone assay | Yes
+2545 | Title | Alemtuzumab | Yes
+2581 | Title | Alexander technique | Yes
+2639 | Title | Alkaline phosphatase test | Yes
+2681 | Title | Allergic bronchopulmonary aspergillosis | Yes
+2746 | Title | Allergic purpura | Yes
+2786 | Title | Allergic rhinitis | Yes
+2901 | Title | Allergies | Yes
+3064 | Title | Allergy tests | Yes
+3130 | Title | | Alopecia | Yes
+3185 | Title | Alpha-fetoprotein test | Yes
+3243 | Title | Alpha,-adrenergic blockers | Yes
+3297 | Title | Alport syndrome | Yes
+3358 | Title | Altitude sickness | Yes
+3399 | Title | Alzheimer’s disease | Yes
+3515 | Title | Amblyopia | Yes
+3562 | Title | Amebiasis | Yes
+3640 | Title | Amenorrhea | Yes
+3749 | Title | Aminoglycosides | Yes
+3797 | Title | Amnesia | Yes
+3844 | Title | Amniocente | Yes
+3934 | Title | Amputation | Yes
+3991 | Title | ylase tests | Yes
+4028 | Title | yloidosis | Yes
+4094 | Title | yotrophic lateral sclerosis | Yes
+4180 | Title | Anaerobic infections | Yes
+4229 | Title | al atre | Yes
+4256 | Title | Anal cancer | Yes
+4317 | Title | nal warts | Yes
+4364 | Title | Analgesics | Yes
+4405 | Title | Analgesics, opioid | Yes
+4514 | Title | Anaphylaxis | Yes
+4577 | Title | Anemias | Yes
+4778 | Title | Anesthesia, general | Yes
+4893 | Title | Anesthesia, local | Yes
+4991 | Title | eurysmectomy | Yes
+5033 | Title | Angina | Yes
+5090 | Title | Angiography | Yes
+5174 | Title | Angioplasty | Yes
+5218 | Title | Angiotensin-converting enzyme inhibitors | Yes
+5308 | Title | Angiotensin-converting enzyme test | Yes
+5335 | Title | mal bite infections | Yes
+5389 | Title | Ankylosing spondy | Yes
+5443 | Title | Anorectal disorders | Yes
+5468 | Title | Anorexia nervosa | Yes
+5548 | Title | Anoscopy | Yes
+5586 | Title | Anosmia | Yes
+5617 | Title | | Anoxia | Yes
+5659 | Title | Antacids | Yes
+5704 | Title | Antenatal testing | Yes
+5758 | Title | Antepartum testing | Yes
+5781 | Title | Biophysical profile | Yes
+5822 | Title | I Anthrax | Yes
+5882 | Title | Antiacne drugs | Yes
+5909 | Title | Benzoyl peroxide and tretinoin | Yes
+5939 | Title | Benzoyl peroxide and tretinoin | Yes
+5979 | Title | Antiangina drugs | Yes
+6031 | Title | Antianxiety drugs | Yes
+6070 | Title | Antiarrhythmic drugs | Yes
+6198 | Title | Antiasthmatic drugs | Yes
+6234 | Title | Antibiotic-associated colitis | Yes
+6294 | Title | Antibiotics | Yes
+6348 | Title | Antibiotics, ophthalmic | Yes
+6381 | Title | Antibiotics, topical | Yes
+6447 | Title | nticancer drugs | Yes
+6549 | Title | Anticoagulant and antiplatelet drugs | Yes
+6642 | Title | Anticonvulsant drugs | Yes
+6762 | Title | Antidepressant drugs | Yes
+6812 | Title | Antidepressants, tricyclic | Yes
+6917 | Title | Antidiabetic drugs | Yes
+6974 | Title | Antidiarrheal drugs | Yes
+7031 | Title | Antidiuretic hormone (ADH) test | Yes
+7063 | Title | Antifungal drugs, systemic | Yes
+7154 | Title | Antifungal drugs, topical | Yes
+7183 | Title | Antigas agents | Yes
+7209 | Title | Antigastroesophageal reflux drugs | Yes
+7253 | Title | Antihelminthic drugs | Yes
+7313 | Title | Antihemorrhoid drugs | Yes
+7340 | Title | istamines | Yes
+7398 | Title | Antihypertensive drugs | Yes
+7441 | Title | Anti-hyperuricemic drugs | Yes
+7458 | Title | nti-insomnia drugs | Yes
+7534 | Title | Anti-itch drugs | Yes
+7570 | Title | Antimalarial drugs | Yes
+7671 | Title | Antimigraine drugs | Yes
+7770 | Title | Antimyocardial antibody test | Yes
+7803 | Title | Antinausea drugs | Yes
+7850 | Title | ntinuclear antibody test | Yes
+7890 | Title | Antiparkinson drugs | Yes
+7949 | Title | Antiprotozoal drugs | Yes
+8027 | Title | Antipsychotic drugs | Yes
+8066 | Title | Antipsychotic drugs, atypical | Yes
+8124 | Title | Antiretroviral drugs | Yes
+8174 | Title | Antirheumatic drugs | Yes
+8232 | Title | Antiseptics | Yes
+8265 | Title | Antispasmodic drugs | Yes
+8321 | Title | Antituberculosis drugs | Yes
+8437 | Title | Antiulcer drugs | Yes
+8482 | Title | Antiviral drugs | Yes
+8524 | Title | | nxiety | Yes
+8623 | Title | Anxiety disorders | Yes
+8684 | Title | Tor c aneurysm | Yes
+8726 | Title | Aortic dissection | Yes
+8755 | Title | Aortic valve insufficiency | Yes
+8792 | Title | Aortic valve stenosis | Yes
+8830 | Title | gar testing | Yes
+8880 | Title | | Aphasia | Yes
+8948 | Title | Aplastic anemia | Yes
+8993 | Title | Appendectomy | Yes
+9055 | Title | pen | Yes
+9106 | Title | plied kinesiology | Yes
+9240 | Title | Arbovirus encephalitis | Yes
+9272 | Title | romatherapy | Yes
+9362 | Title | Arrhythmias | Yes
+9416 | Title | Arterial embolism | Yes
+9457 | Title | Arteriovenous fistula | Yes
+9480 | Title | Arteriovenous malforma ns | Yes
+9534 | Title | Arthrography | Yes
+9574 | Title | Arthroplasty | Yes
+9606 | Title | Arthroscopic surgery | Yes
+9657 | Title | Arthroscopy | Yes
+9710 | Title | Art therapy | Yes
+9765 | Title | Asbestosis | Yes
+9825 | Title | I Ascites | Yes
+9899 | Title | Aspartate aminotransferase test | Yes
+9932 | Title | Aspergillosis | Yes
+9998 | Title | I Aspirin | Yes
+10064 | Title | Asthma | Yes
+10160 | Title | Astigmatism | Yes
+10197 | Title | Aston-Patterning | Yes
+10232 | Title | Ataxia-telangiectasia | Yes
+10282 | Title | I Atelectasis | Yes
+10319 | Title | Atherectomy | Yes
+10367 | Title | Atheroscleros | Yes
+10463 | Title | Athlete’s foot | Yes
+10522 | Title | Athletic heart syndrome | Yes
+10542 | Title | Atkins diet | Yes
+10599 | Title | Atopic dermatitis | Yes
+10690 | Title | Atrial ectopic beats | Yes
+10715 | Title | Atrial fibrillation and flutter | Yes
+10789 | Title | Atrial septal defect | Yes
+10824 | Title | Attention-deficit/hyperactivity disorder (ADHD) | Yes
+10914 | Title | Audiometry | Yes
+10952 | Title | auditor tegration training | Yes
+11010 | Title | Tau sm | Yes
+11128 | Title | Autoimmune disorders | Yes
+11221 | Title | Autopsy | Yes
+11262 | Title | Aviation medicine | Yes
+11307 | Title | Ayurvedic medicine | Yes
+11385 | Title | Babesiosis | Yes
+11417 | Title | Bacillary angiomatosis | Yes
+11451 | Title | Bacteremia | Yes
+11511 | Title | Bad breath | Yes
+11540 | Title | Balance and coordination tests | Yes
+11582 | Title | I Balani | Yes
+11619 | Title | Balantidiasis | Yes
+11665 | Title | Balloon valvuloplasty | Yes
+11702 | Title | Barbiturate-induced coma | Yes
+11739 | Title | Barbiturates | Yes
+11840 | Title | Barium enema | Yes
+11897 | Title | Bartholin’s gland cyst | Yes
+11956 | Title | Bartonellos | Yes
+11995 | Title | Battered child syndrome | Yes
+12026 | Title | Bed-wetting | Yes
+12104 | Title | Bedsores | Yes
+12207 | Title | Behcet’s syndrome | Yes
+12251 | Title | | Bejel | Yes
+12279 | Title | Bell’s palsy | Yes
+12334 | Title | Bence Jones protein test | Yes
+12365 | Title | Bender-Gestalt test | Yes
+12405 | Title | Benzodiazepines | Yes
+12509 | Title | | Beriberi | Yes
+12576 | Title | Berylliosis | Yes
+12626 | Title | Beta,-microglobulin test | Yes
+12667 | Title | Beta blockers | Yes
+12743 | Title | Bile duct cancer | Yes
+12802 | Title | Biliary atresia | Yes
+12841 | Title | Binge-eating disorder | Yes
+12879 | Title | Biofeedback | Yes
+12947 | Title | Bipolar disorder | Yes
+13037 | Title | Birth defects | Yes
+13122 | Title | Birthmarks | Yes
+13224 | Title | Bites and stings | Yes
+13393 | Title | Black lung disease | Yes
+13430 | Title | Bladder cancer | Yes
+13504 | Title | Bladder stones | Yes
+13550 | Title | Bladder training | Yes
+13585 | Title | Blastomycosis | Yes
+13631 | Title | Bleeding time | Yes
+13661 | Title | Bleeding varices | Yes
+13717 | Title | Blepharoplasty | Yes
+13762 | Title | Blood-viscosity reducing drugs | Yes
+13803 | Title | Blood count | Yes
+13829 | Title | Blood culture | Yes
+13890 | Title | Blood donation and registry | Yes
+13946 | Title | Blood gas analysis | Yes
+13991 | Title | Blood sugar tests | Yes
+14054 | Title | Blood typing and crossmatching | Yes
+14071 | Title | Blood typing | Yes
+14143 | Title | Blood urea nitrogen test | Yes
+14169 | Title | Abnormally low BUN | Yes
+14171 | Title | Abnormally high BUN | Yes
+14181 | Title | Boils | Yes
+14254 | Title | Bone biopsy | Yes
+14310 | Title | Bone density test | Yes
+14355 | Title | Bone disorder drugs | Yes
+14423 | Title | Bone grafting | Yes
+14474 | Title | Bone growth stimulation | Yes
+14509 | Title | Bone marrow aspiration and biopsy | Yes
+14584 | Title | Bone marrow transplantation | Yes
+14699 | Title | Bone nuclear medicine scan | Yes
+14739 | Title | Bone x rays | Yes
+14790 | Title | Botulinum toxin injections | Yes
+14825 | Title | Botulism | Yes
+14892 | Title | Bowel preparation | Yes
+14936 | Title | Bowel resection | Yes
+14982 | Title | Bowel training | Yes
+15015 | Title | Brain abscess | Yes
+15064 | Title | Brain biopsy | Yes
+15102 | Title | Brain tumor | Yes
+15307 | Title | Breast biopsy | Yes
+15372 | Title | Breast cancer | Yes
+15417 | Title | Biopsy | Yes
+15527 | Title | Breast implants | Yes
+15562 | Title | Breast reconstruction | Yes
+15640 | Title | Breast reduction | Yes
+15708 | Title | Breast ultrasound | Yes
+15752 | Title | Breech birth | Yes
+15797 | Title | Bronchiectasis | Yes
+15837 | Title | Bronchitis | Yes
+15904 | Title | Bronchodilators | Yes
+15995 | Title | Bronchoscopy | Yes
+16053 | Title | Brucello | Yes
+16101 | Title | Bruises | Yes
+16136 | Title | Bruton’s agammaglobulinemia see X-linked agammaglobulinemia | Yes
+16172 | Title | Budd-Chiari syndrome | Yes
+16214 | Title | Buerger’s disease | Yes
+16238 | Title | Bulimia nervosa | Yes
+16309 | Title | Bundle branch block | Yes
+16333 | Title | Bunion | Yes
+16380 | Title | Burns | Yes
+16448 | Title | Bursitis | Yes
+16492 | Title | Byssinosis | Yes

@@ -1,0 +1,4805 @@
+Abdominal ultrasound | Yes
+Abdominal wall defects | Yes
+Abortion, partial birth | Yes
+Abortion, selective | Yes
+Abortion, therapeutic | Yes
+| Abscess | Yes
+Abscess incision & drainage | Yes
+Abuse | Yes
+Acetaminophen | Yes
+Achalasia | Yes
+Achondroplasia | Yes
+Acid phosphatase test | Yes
+| Acne | Yes
+Acoustic neuroma | Yes
+Acrocyanosis | Yes
+Acromegaly and gigantism | Yes
+Actinomycosis | Yes
+Acupressure | Yes
+Acupuncture | Yes
+Acute kidney failure | Yes
+Acute lymphangitis | Yes
+Acute oststreptococcal glomerulonephritis | Yes
+Acute stress disorder | Yes
+dison’s disease | Yes
+Adenoid hyperplasia | Yes
+denovirus infections | Yes
+Adjustment disorders | Yes
+Adrenal gland cancer | Yes
+Adrenal gland scan | Yes
+Adrenal virilism | Yes
+Adrenalectomy | Yes
+Adrenocorticotropic hormone test | Yes
+Addison’s disease | Yes
+Adult respiratory distress syndrome | Yes
+i & | Yes
+Agoraphobia | Yes
+| AIDS | Yes
+AIDS tests | Yes
+Alanine aminotransferase test | Yes
+Albinism | Yes
+Alcohol-related neurologic disease | Yes
+Alcoholism | Yes
+Aldolase test | Yes
+Aldosterone assay | Yes
+Alemtuzumab | Yes
+Alexander technique | Yes
+Alkaline phosphatase test | Yes
+Allergic bronchopulmonary aspergillosis | Yes
+Allergic purpura | Yes
+Allergic rhinitis | Yes
+Allergies | Yes
+Allergy tests | Yes
+| Alopecia | Yes
+Alpha-fetoprotein test | Yes
+Alpha,-adrenergic blockers | Yes
+Alport syndrome | Yes
+Altitude sickness | Yes
+Alzheimer’s disease | Yes
+Amblyopia | Yes
+Amebiasis | Yes
+Amenorrhea | Yes
+Aminoglycosides | Yes
+Amnesia | Yes
+Amniocente | Yes
+Amputation | Yes
+ylase tests | Yes
+yloidosis | Yes
+yotrophic lateral sclerosis | Yes
+Anaerobic infections | Yes
+al atre | Yes
+Anal cancer | Yes
+nal warts | Yes
+Analgesics | Yes
+Analgesics, opioid | Yes
+Anaphylaxis | Yes
+Anemias | Yes
+Anesthesia, general | Yes
+Anesthesia, local | Yes
+eurysmectomy | Yes
+Angina | Yes
+Angiography | Yes
+Angioplasty | Yes
+Angiotensin-converting enzyme inhibitors | Yes
+Angiotensin-converting enzyme test | Yes
+mal bite infections | Yes
+Ankylosing spondy | Yes
+Anorectal disorders | Yes
+Anorexia nervosa | Yes
+Anoscopy | Yes
+Anosmia | Yes
+| Anoxia | Yes
+Antacids | Yes
+Antenatal testing | Yes
+Antepartum testing | Yes
+Biophysical profile | Yes
+I Anthrax | Yes
+Antiacne drugs | Yes
+Benzoyl peroxide and tretinoin | Yes
+Benzoyl peroxide and tretinoin | Yes
+Antiangina drugs | Yes
+Antianxiety drugs | Yes
+Antiarrhythmic drugs | Yes
+Antiasthmatic drugs | Yes
+Antibiotic-associated colitis | Yes
+Antibiotics | Yes
+Antibiotics, ophthalmic | Yes
+Antibiotics, topical | Yes
+nticancer drugs | Yes
+Anticoagulant and antiplatelet drugs | Yes
+Anticonvulsant drugs | Yes
+Antidepressant drugs | Yes
+Antidepressants, tricyclic | Yes
+Antidiabetic drugs | Yes
+Antidiarrheal drugs | Yes
+Antidiuretic hormone (ADH) test | Yes
+Antifungal drugs, systemic | Yes
+Antifungal drugs, topical | Yes
+Antigas agents | Yes
+Antigastroesophageal reflux drugs | Yes
+Antihelminthic drugs | Yes
+Antihemorrhoid drugs | Yes
+istamines | Yes
+Antihypertensive drugs | Yes
+Anti-hyperuricemic drugs | Yes
+nti-insomnia drugs | Yes
+Anti-itch drugs | Yes
+Antimalarial drugs | Yes
+Antimigraine drugs | Yes
+Antimyocardial antibody test | Yes
+Antinausea drugs | Yes
+ntinuclear antibody test | Yes
+Antiparkinson drugs | Yes
+Antiprotozoal drugs | Yes
+Antipsychotic drugs | Yes
+Antipsychotic drugs, atypical | Yes
+Antiretroviral drugs | Yes
+Antirheumatic drugs | Yes
+Antiseptics | Yes
+Antispasmodic drugs | Yes
+Antituberculosis drugs | Yes
+Antiulcer drugs | Yes
+Antiviral drugs | Yes
+| nxiety | Yes
+Anxiety disorders | Yes
+Tor c aneurysm | Yes
+Aortic dissection | Yes
+Aortic valve insufficiency | Yes
+Aortic valve stenosis | Yes
+gar testing | Yes
+| Aphasia | Yes
+Aplastic anemia | Yes
+Appendectomy | Yes
+pen | Yes
+plied kinesiology | Yes
+Arbovirus encephalitis | Yes
+romatherapy | Yes
+Arrhythmias | Yes
+Arterial embolism | Yes
+Arteriovenous fistula | Yes
+Arteriovenous malforma ns | Yes
+Arthrography | Yes
+Arthroplasty | Yes
+Arthroscopic surgery | Yes
+Arthroscopy | Yes
+Art therapy | Yes
+Asbestosis | Yes
+I Ascites | Yes
+Aspartate aminotransferase test | Yes
+Aspergillosis | Yes
+I Aspirin | Yes
+Asthma | Yes
+Astigmatism | Yes
+Aston-Patterning | Yes
+Ataxia-telangiectasia | Yes
+I Atelectasis | Yes
+Atherectomy | Yes
+Atheroscleros | Yes
+Athlete’s foot | Yes
+Athletic heart syndrome | Yes
+Atkins diet | Yes
+Atopic dermatitis | Yes
+Atrial ectopic beats | Yes
+Atrial fibrillation and flutter | Yes
+Atrial septal defect | Yes
+Attention-deficit/hyperactivity disorder (ADHD) | Yes
+Audiometry | Yes
+auditor tegration training | Yes
+Tau sm | Yes
+Autoimmune disorders | Yes
+Autopsy | Yes
+Aviation medicine | Yes
+Ayurvedic medicine | Yes
+Babesiosis | Yes
+Bacillary angiomatosis | Yes
+Bacteremia | Yes
+Bad breath | Yes
+Balance and coordination tests | Yes
+I Balani | Yes
+Balantidiasis | Yes
+Balloon valvuloplasty | Yes
+Barbiturate-induced coma | Yes
+Barbiturates | Yes
+Barium enema | Yes
+Bartholin’s gland cyst | Yes
+Bartonellos | Yes
+Battered child syndrome | Yes
+Bed-wetting | Yes
+Bedsores | Yes
+Behcet’s syndrome | Yes
+| Bejel | Yes
+Bell’s palsy | Yes
+Bence Jones protein test | Yes
+Bender-Gestalt test | Yes
+Benzodiazepines | Yes
+| Beriberi | Yes
+Berylliosis | Yes
+Beta,-microglobulin test | Yes
+Beta blockers | Yes
+Bile duct cancer | Yes
+Biliary atresia | Yes
+Binge-eating disorder | Yes
+Biofeedback | Yes
+Bipolar disorder | Yes
+Birth defects | Yes
+Birthmarks | Yes
+Bites and stings | Yes
+Black lung disease | Yes
+Bladder cancer | Yes
+Bladder stones | Yes
+Bladder training | Yes
+Blastomycosis | Yes
+Bleeding time | Yes
+Bleeding varices | Yes
+Blepharoplasty | Yes
+Blood-viscosity reducing drugs | Yes
+Blood count | Yes
+Blood culture | Yes
+Blood donation and registry | Yes
+Blood gas analysis | Yes
+Blood sugar tests | Yes
+Blood typing and crossmatching | Yes
+Blood typing | Yes
+Blood urea nitrogen test | Yes
+Abnormally low BUN | Yes
+Abnormally high BUN | Yes
+Boils | Yes
+Bone biopsy | Yes
+Bone density test | Yes
+Bone disorder drugs | Yes
+Bone grafting | Yes
+Bone growth stimulation | Yes
+Bone marrow aspiration and biopsy | Yes
+Bone marrow transplantation | Yes
+Bone nuclear medicine scan | Yes
+Bone x rays | Yes
+Botulinum toxin injections | Yes
+Botulism | Yes
+Bowel preparation | Yes
+Bowel resection | Yes
+Bowel training | Yes
+Brain abscess | Yes
+Brain biopsy | Yes
+Brain tumor | Yes
+Breast biopsy | Yes
+Breast cancer | Yes
+Biopsy | Yes
+Breast implants | Yes
+Breast reconstruction | Yes
+Breast reduction | Yes
+Breast ultrasound | Yes
+Breech birth | Yes
+Bronchiectasis | Yes
+Bronchitis | Yes
+Bronchodilators | Yes
+Bronchoscopy | Yes
+Brucello | Yes
+Bruises | Yes
+Bruton’s agammaglobulinemia see X-linked agammaglobulinemia | Yes
+Budd-Chiari syndrome | Yes
+Buerger’s disease | Yes
+Bulimia nervosa | Yes
+Bundle branch block | Yes
+Bunion | Yes
+Burns | Yes
+Bursitis | Yes
+Byssinosis | Yes
+The GALE ENCYCLOPEDIA of MEDICINE SECOND EDITION | No
+GALE GROUP | No
+THOMSON LEARNING | No
+STAFF | No
+CONTENTS | No
+PLEASE READ—IMPORTANT INFORMATION | No
+INTRODUCTION | No
+INCLUSION CRITERIA | No
+SCOPE | No
+ABOUT THE CONTRIBUTORS | No
+HOW TO USE THIS BOOK | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Ix | No
+GRAPHICS | No
+ADVISORY BOARD | No
+MEDICAL ADVISORS | No
+A. Richard Adrouny, M.D., | No
+Larry I. Lutwick M.D., F.A.C.P. | No
+LIBRARIAN ADVISORS | No
+Kenneth J. Berniker, M.D. | No
+Ralph M. Myerson, M.D., | No
+FA.C.P. | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+CONTRIBUTORS | No
+Jennifer Bowjanowski, MLS., | No
+Michelle Q. Bosworth, M.LS., C.G.C. | No
+Diane Calbrese | No
+Richard H. Camer | No
+XIII | No
+Esther Csapo Rastega, R.N., B.S.N. | No
+XIV | No
+L. Fleming Fallon Jr., M.D., | No
+Janis Flores | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Judy C. Hawkins, M.S. | No
+Katherine S. Hunt, M.S. | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Larry Lutwick, M.D., F.A.C.P. | No
+Xvi | No
+Robert Ramirez, B.S. | No
+Anna Rovid Spickler, D.V.M., | No
+Kristen Mahoney Shannon, MLS., | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Deanna M. Swartout-Corbeil, | No
+RN. | No
+Keith Tatarelli, J.D. | No
+aneurysm | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Preparation | No
+Aftercare | No
+Risks | No
+Normal results | No
+Abnormal results | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Definition | No
+KEY TERMS | No
+Description | No
+Causes and symptoms | No
+Diagnosis | No
+Treatment | No
+Prevention | No
+Resources | No
+PERIODICALS | No
+fetalis | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Precautions | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Aftercare | No
+Risks | No
+Normal results | No
+Resources | No
+PERIODICALS | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+Precautions | No
+Preparation | No
+Aftercare | No
+Risks | No
+Normal results | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+ORGANIZATIONS | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Precautions | No
+Description | No
+Very early abortions | No
+First trimester abortions | No
+10 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Surgical abortions | No
+Second trimester abortions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+11 | No
+Preparation | No
+Aftercare | No
+Risks | No
+12 | No
+Normal results | No
+Resources | No
+BOOKS | No
+ORGANIZATION | No
+Abrasions see Wounds | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+Specific types of abscesses | No
+KEY TERMS | No
+Diagnosis | No
+14 | No
+Treatment | No
+Alternative treatment | No
+Prognosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Prevention | No
+Resources | No
+BOOKS | No
+Abscess drainage see Abscess incision and drainage | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Precautions | No
+KEY TERMS | No
+Preparation | No
+Aftercare | No
+Risks | No
+Normal results | No
+Resources | No
+BOOKS | No
+16 | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Diagnosis | No
+Treatment | No
+Prognosis | No
+Prevention | No
+18 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+OTHER | No
+ACE inhibitors see Angiotensin-converting enzyme inhibitors | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Recommended dosage | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Side effects | No
+Interactions | No
+Definition | No
+Description | No
+Causes and symptoms | No
+Causes | No
+20 | No
+Diagnosis | No
+Treatment | No
+Prognosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Prevention | No
+Resources | No
+BOOKS | No
+Definition | No
+Description | No
+Causes and symptoms | No
+KEY TERMS | No
+22 | No
+Diagnosis | No
+Treatment | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Purpose | No
+Precautions | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Preparation | No
+Aftercare | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+Acidosis see Respiratory acidosis; Renal tubular acidosis; Metabolic acidosis | No
+Definition | No
+Description | No
+24 | No
+Causes and symptoms | No
+Diagnosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+Drugs | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+26 | No
+Other treatments | No
+Alternative treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Prevention | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+27 | No
+Causes and symptoms | No
+Causes | No
+28 | No
+Symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+Microsurgery | No
+30 | No
+Stereotactic Radiation therapy | No
+Observation | No
+Prognosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+OTHER | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Acquired hypogammaglobulinemia see Common variable immunodeficiency | No
+AIDS | No
+Definition | No
+Description | No
+Causes and symptoms | No
+KEY TERMS | No
+Treatment | No
+Prognosis | No
+Resources | No
+BOOKS | No
+Definition | No
+32 | No
+Description | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+33 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+34 | No
+KEY TERMS | No
+ORGANIZATIONS | No
+ACT see Alanine aminotransferase test ACTH test see Adrenocorticotropic | No
+hormone test | No
+Actinomycosis | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Description | No
+Causes and symptoms | No
+Diagnosis | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Prognosis | No
+Prevention | No
+Resources | No
+OTHER | No
+Definition | No
+Purpose | No
+36 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Acupressure and Chinese medicine | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+38 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Precautions | No
+Research and general acceptance | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+OTHER | No
+Definition | No
+Purpose | No
+Origins | No
+40 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Basic ideas of Chinese medicine | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+42 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Research and general acceptance | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+OTHER | No
+Acute glomerulonephritis see Acute poststreptococcal glomerulonephritis | No
+Acute homeopathic remedies see Homeopathic remedies, acute prescribing | No
+Definition | No
+Description | No
+Causes and symptoms | No
+44 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+Treatment | No
+Hemodialysis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Hemofiltration | No
+45 | No
+Peritoneal dialysis | No
+Prevention | No
+46 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Treatment | No
+Prevention | No
+Resources | No
+PERIODICALS | No
+Definition | No
+Causes and symptoms | No
+48 | No
+KEY TERMS | No
+Diagnosis | No
+Treatment | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+ORGANIZATIONS | No
+Acute respiratory distress syndrome see Adult respiratory distress syndrome | No
+Definition | No
+Description | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Treatment | No
+Alternative treatment | No
+Prognosis | No
+49 | No
+Prevention | No
+Resources | No
+BOOKS | No
+Rebecca J. Frey | No
+myelitis | No
+ddiction | No
+Definition | No
+50 | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+Drug chemistry | No
+Genetic factor | No
+Brain structure and function | No
+Social learning | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Individual development | No
+Diagnosis | No
+Treatment | No
+Alternative treatment | No
+52 | No
+KEY TERMS | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Causes and symptoms | No
+Diagnosis | No
+54 | No
+Treatment | No
+Prognosis | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Description | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Diagnosis | No
+Treatment | No
+Alternative treatment | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+Definition | No
+Description | No
+Acquired immunity | No
+Childhood infections | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Adult infections | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Causes and symptoms | No
+Diagnosis | No
+Treatment | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+Definition | No
+Description | No
+* anxiety | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+Treatment | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+PERIODICALS | No
+Definition | No
+Description | No
+Causes and symptoms | No
+KEY TERMS | No
+Diagnosis | No
+Treatment | No
+60 | No
+Alternative treatment | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+OTHER | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Precautions | No
+Description | No
+Preparation | No
+Aftercare | No
+Risks | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+Definition | No
+Description | No
+KEY TERMS | No
+Causes and symptoms | No
+62 | No
+Treatment | No
+Prognosis | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+PERIODICALS | No
+Definition | No
+Purpose | No
+Precautions | No
+Open adrenalectomy | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Laparoscopic adrenalectomy | No
+Preparation | No
+KEY TERMS | No
+Aftercare | No
+Risks | No
+64 | No
+Resources | No
+BOOKS | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Precautions | No
+Description | No
+Cushing’s syndrome | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Preparation | No
+Risks | No
+Normal results | No
+Abnormal results | No
+65 | No
+Resources | No
+BOOKS | No
+Definition | No
+Description | No
+66 | No
+KEY TERMS | No
+Causes and symptoms | No
+Diagnosis | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+KEY TERMS | No
+68 | No
+Treatment | No
+Prognosis | No
+Prevention | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+OTHER | No
+AFP test see Alpha-fetoprotein test | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Description | No
+Causes and symptoms | No
+Diagnosis | No
+70 | No
+Treatment | No
+Expected results | No
+Alternative treatment | No
+Nutritional supplements | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Hormones | No
+Herbs | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Senescence—Aging. | No
+Prevention | No
+Resources | No
+BOOKS | No
+OTHER | No
+72 | No
+Definition | No
+Description | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+Treatment | No
+Prognosis | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+Risk factors | No
+AIDS in women | No
+74 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+AIDS in children | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Acute retroviral syndrome | No
+Latency period | No
+76 | No
+Late-stage disease (AIDS) | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Diagnosis | No
+78 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Physical findings | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis in children | No
+Treatment | No
+80 | No
+Treatment in women | No
+Alternative treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Prognosis | No
+Prevention | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+Purpose | No
+Precautions | No
+82 | No
+Description | No
+Diagnostic tests | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Prognostic tests | No
+83 | No
+KEY TERMS | No
+84 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+85 | No
+AIDS serology in children | No
+Preparation | No
+Aftercare | No
+Risks | No
+Normal results | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+PERIODICALS | No
+ORGANIZATION | No
+OTHER | No
+Air embolism see Gas embolism | No
+Definition | No
+Purpose | No
+Description | No
+Aftercare | No
+Normal results | No
+Abnormal results | No
+88 | No
+Osteopetroses | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+90 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Albuterol see Bronchodilators | No
+Definition | No
+Description | No
+Causes and symptoms | No
+92 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+Treatment | No
+KEY TERMS | No
+Prevention | No
+Resources | No
+PERIODICALS | No
+94 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and sympto! ms | No
+Immediate (acute) effects of alcohol use | No
+Effects of long-term (chronic) alcoholism | No
+96 | No
+Diagnosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Symptoms Of Co-Alcohol Dependence | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+98 | No
+Alternative treatment | No
+Prognosis | No
+Prevention | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+ORGANIZATIONS | No
+ALD see Adrenoleukodystrophy | No
+Definition | No
+Purpose | No
+99 | No
+Description | No
+Aftercare | No
+Normal results | No
+Abnormal results | No
+100 | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Description | No
+Preparation | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Risks | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+Definition | No
+Purpose | No
+Description | No
+102 | No
+Recommended dosage | No
+Precautions | No
+Side effects | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Interactions | No
+Definition | No
+Purpose | No
+Description | No
+Origins | No
+104 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Precautions | No
+Side effects | No
+Research and general acceptance | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+OTHER | No
+Alkali-resistant hemoglobin test see Fetal hemoglobin test | No
+Definition | No
+Purpose | No
+106 | No
+Description | No
+Aftercare | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+Alkalosis see Metabolic alkalosis; Respiratory alkalosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Allergic alveolitis see Hypersensitivity pneumonitis | No
+Definition | No
+Description | No
+Causes and symptoms | No
+107 | No
+Diagnosis | No
+Laboratory tests | No
+108 | No
+Diagnostic imaging | No
+Treatment | No
+Follow-up care | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Definition | No
+ORGANIZATIONS | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+109 | No
+Causes and symptoms | No
+Causes | No
+110 | No
+KEY TERMS | No
+Diagnosis | No
+Treatment | No
+Prognosis | No
+Resources | No
+PERIODICALS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+OTHER | No
+Definition | No
+Description | No
+Causes and symptoms | No
+Causes | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+112 | No
+Symptoms | No
+Diagnosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+Drugs | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Immunotherapy | No
+Alternative treatment | No
+Prognosis | No
+KEY TERMS | No
+Prevention | No
+114 | No
+Resources | No
+BOOKS | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+115 | No
+«milk | No
+116 | No
++ latex | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+Allergen-Specific IgE Measurement | No
+Skin tests | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Total Serum IgE | No
+Provocation tests | No
+Future diagnostic methods | No
+Treatment | No
+118 | No
+Antihistamines | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Second and subsequent exposure to allergen. (I//ustration by Hans & Cassady.) | No
+Topical corticosteroids | No
+Bronchodilators or metered-dose inhalers (MDI) | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Anticholinergics | No
+Nonsteroidal drugs | No
+120 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Immunotherapy | No
+Treatment of contact dermatitis | No
+Treatment of anaphylaxis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Alternative treatment | No
+Treatment of contact dermatitis | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Precautions | No
+Description | No
+123 | No
+Aftercare | No
+124 | No
+KEY TERMS | No
+Risks | No
+Normal results | No
+Abnormal results | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+BOOKS | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+KEY TERMS | No
+Diagnosis | No
+Treatment | No
+126 | No
+Prognosis | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+OTHER | No
+Beth Kapes | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+127 | No
+KEY TERMS | No
+Precautions | No
+Description | No
+Preparation | No
+Aftercare | No
+Risks | No
+Normal results | No
+128 | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Purpose | No
+High blood pressure | No
+Benign prostatic hyperplasia (BPH) | No
+Description | No
+Recommended dosage | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Precautions | No
+KEY TERMS | No
+Side effects | No
+Interactions | No
+130 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Description | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Diagnosis | No
+Treatment | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+132 | No
+OTHER | No
+Alprazolam see Benzodiazepines ALS see Amyotrophic lateral sclerosis Alteplase see Thrombolytic therapy | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Diagnosis | No
+Treatment | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+Definition | No
+Description | No
+Causes and symptoms | No
+Causes | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+136 | No
+Symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+138 | No
+Nursing care and safety | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Care for the caregiver | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Outside help, nursing homes, and governmental assistance | No
+Alternative treatment | No
+139 | No
+KEY TERMS | No
+Prognosis | No
+Prevention | No
+140 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+OTHER | No
+Definition | No
+Description | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+141 | No
+KEY TERMS | No
+Diagnosis | No
+142 | No
+Treatment | No
+Prognosis | No
+Prevention | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+Intestinal amebiasis | No
+Extraintestinal amebiasis | No
+144 | No
+Diagnosis | No
+Stool examination | No
+Sigmoidoscopy | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Blood tests | No
+Imaging studies | No
+Treatment | No
+Luminal amebicides | No
+Tissue amebicides | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+Definition | No
+Description | No
+Causes and symptoms | No
+Primary amenorrhea | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Secondary amenorrhea | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+Prevention | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+KEY TERMS | No
+ORGANIZATIONS | No
+| mino acid disorders screening | No
+Definition | No
+Purpose | No
+148 | No
+Precautions | No
+Description | No
+Blood plasma screening | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Urine test | No
+Preparation | No
+Aftercare | No
+Risks | No
+Normal results | No
+Abnormal results | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+Definition | No
+Purpose | No
+Precautions | No
+150 | No
+Risks | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Amitriptyline see Antidepressants, tricyclic Amlodipine see Calcium channel blockers | No
+Definition | No
+Description | No
+Causes and symptoms | No
+152 | No
+Diagnosis | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Prognosis | No
+PERIODICALS | No
+Prevention | No
+Resources | No
+BOOKS | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Purpose | No
+154 | No
+Precautions | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Preparation | No
+Aftercare | No
+Emotional aftercare | No
+Physical aftercare | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Risks | No
+Normal results | No
+156 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+OTHER | No
+Definition | No
+Purpose | No
+Precautions | No
+158 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Aftercare | No
+Risks | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Normal results | No
+Resources | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+Purpose | No
+Precautions | No
+160 | No
+Preparation | No
+Aftercare | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Definition | No
+Description | No
+Types of amyloidosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+Heart | No
+Kidneys | No
+KEY TERMS | No
+Nervous system | No
+Liver and spleen | No
+Gastrointestinal system | No
+Skin | No
+162 | No
+Respiratory system | No
+Diagnosis | No
+Treatment | No
+Supportive measures | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+Causes | No
+164 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Alternative treatment | No
+166 | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+OTHER | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+167 | No
+KEY TERMS | No
+Diagnosis | No
+168 | No
+Treatment | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Description | No
+Cause and symptoms | No
+Diagnosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Treatment | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+Definition | No
+Description | No
+170 | No
+Causes and symptoms | No
+Diagnosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+Alternative treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Prevention | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Anal fissure see Anorectal disorders | No
+Definition | No
+Description | No
+Causes and symptoms | No
+172 | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Prevention | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Resources | No
+PERIODICALS | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+Purpose | No
+Acute pain | No
+174 | No
+Chronic pain | No
+Narcotic analgesics | No
+Recommended dosage | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Precautions | No
+Side effects | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Interactions | No
+Definition | No
+Purpose | No
+Description | No
+Recommended dosage | No
+Opioid analgesics | No
+Precautions | No
+176 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Special conditions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Side effects | No
+Interactions | No
+178 | No
+KEY TERMS | No
+Definition | No
+Description | No
+Causes and symptoms | No
+Causes | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Symptoms | No
+Diagnosis | No
+Treatment | No
+KEY TERMS | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+OTHER | No
+180 | No
+Definition | No
+Description | No
+Types of anemia | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+* gastritis, stomach cancer, or stomach surgery | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+* pain | No
+181 | No
+Causes and symptoms | No
+182 | No
+Symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Self-care | No
+Alternative treatment | No
+184 | No
+Prognosis | No
+Folic-acid and iron-deficiency anemias | No
+Pernicious anemia | No
+Aplastic anemia | No
+Sickle cell anemia | No
+Thalassemia | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Hemolytic anemia | No
+Prevention | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+OTHER | No
+Anencephaly see Congenital brain defects | No
+Definition | No
+Purpose | No
+Description | No
+185 | No
+186 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Recommended dosage | No
+Precautions | No
+Special conditions | No
+187 | No
+Anesthetics: How They Work | No
+Side effects | No
+« Headache | No
+188 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+PERIODICALS | No
+Interactions | No
+ORGANIZATION | No
+OTHER | No
+Resources | No
+Definition | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Purpose | No
+Regional anesthesia | No
+190 | No
+Local anesthesia | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Recommended dosage | No
+Precautions | No
+Regional anesthetics | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Injectable local anesthetics | No
+Topical anesthetics | No
+Dental anesthetics (non-injectable) | No
+Ophthalmic anesthetics | No
+Side effects | No
+192 | No
+KEY TERMS | No
+Interactions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+BOOKS | No
+Definition | No
+Purpose | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Preparation | No
+Aftercare | No
+Risks | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+OTHER | No
+194 | No
+Aneurysms see Aneurysmectomy; Cerebral aneurysm; Ventricular aneurysm | No
+Definition | No
+Description | No
+Angina of effort | No
+Variant angina | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+Diagnosis | No
+Electrocardiogram (ECG) | No
+Stress test | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+Conservative treatment | No
+Surgical treatment | No
+Alternative treatment | No
+195 | No
+Prevention | No
+196 | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+197 | No
+Cerebral angiography | No
+Coronary angiography | No
+Pulmonary angiography | No
+198 | No
+Kidney angiography | No
+Fluorescein angiography | No
+Celiac and mesenteric angiography | No
+Splenoportography | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Aftercare | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+199 | No
+Risks | No
+Normal results | No
+200 | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Risks | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+OTHER | No
+202 | No
+KEY TERMS | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Description | No
+Recommended dosage | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Special conditions | No
+204 | No
+Side effects | No
+Interactions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Purpose | No
+Precautions | No
+Description | No
+Preparation | No
+Risks | No
+Normal results | No
+KEY TERMS | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+Definition | No
+Description | No
+206 | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+207 | No
+KEY TERMS | No
+Prognosis | No
+Prevention | No
+208 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+OTHER | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+Diagnosis | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Alternative treatment | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+KEY TERMS | No
+OTHER | No
+Definition | No
+Description | No
+210 | No
+Causes and symptoms | No
+Diagnosis | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+BOOKS | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+Social influences | No
+Occupational goals | No
+Genetic and biological influences | No
+Psychological factors | No
+Male anorexics | No
+212 | No
+Treatment | No
+Hospital treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Outpatient treatment | No
+Medications | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+ORGANIZATIONS | No
+Definition | No
+Purpose | No
+Precautions | No
+Description | No
+214 | No
+KEY TERMS | No
+Aftercare | No
+Risks | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+PERIODICALS | No
+OTHER | No
+Beth A. Kapes | No
+Definition | No
+Description | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+Treatment | No
+Alternative treatment | No
+Prognosis | No
+Resources | No
+BOOKS | No
+KEY TERMS | No
+PERIODICALS | No
+Definition | No
+Description | No
+216 | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+Prevention | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+Purpose | No
+Recommended dosage | No
+218 | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Side effects | No
+Interactions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Purpose | No
+Precautions | No
+Description | No
+Ultrasound | No
+219 | No
+Tests for birth defects | No
+220 | No
+Group B Strep | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Description | No
+Technology | No
+NST | No
+221 | No
+CST | No
+222 | No
+Preparation | No
+Risks | No
+Normal results | No
+Abnormal results | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+Causes and symptoms | No
+224 | No
+Cutaneous anthrax | No
+Inhalation anthrax | No
+Intestinal anthrax | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+Prognosis | No
+Prevention | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+Purpose | No
+226 | No
+Recommended dosage | No
+Precautions | No
+Isotretinoin | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Special conditions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Side effects | No
+Isotretinoin | No
+228 | No
+KEY TERMS | No
+Interactions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Purpose | No
+Description | No
+Recommended dosage | No
+229 | No
+Precautions | No
+Side effects | No
+230 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Interactions | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Description | No
+Antianxiety Drugs | No
+Recommended dosage | No
+Precautions | No
+Side effects | No
+Interactions | No
+232 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Purpose | No
+Description | No
+Recommended dosage | No
+Precautions | No
+234 | No
+¢ diarrhea | No
++ hallucinations | No
+Special conditions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Side effects | No
+Interactions | No
+236 | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Side effects | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Interactions | No
+Definition | No
+Description | No
+238 | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Alternative treatment | No
+239 | No
+KEY TERMS | No
+Prognosis | No
+Prevention | No
+Resources | No
+PERIODICALS | No
+240 | No
+OTHER | No
+Definition | No
+Purpose | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Recommended dosage | No
+Side effects | No
+241 | No
+Recommended usage | No
+242 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Resources | No
+PERIODICALS | No
+Definition | No
+Purpose | No
+Description | No
+Recommended dosage | No
+Adults | No
+Children | No
+Precautions | No
+243 | No
+KEY TERMS | No
+Side effects | No
+Interactions | No
+Definition | No
+244 | No
+Purpose | No
+Description | No
+Recommended dosage | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Side effects | No
+«rash | No
+Interactions | No
+Resources | No
+PERIODICALS | No
+Antibody screening see Blood typing and crossmatching | No
+Definition | No
+Purpose | No
+246 | No
+KEY TERMS | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Anti Cancer Drugs | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Anti Cancer Drugs (continues | No
+Side effects | No
+Other anticancer drugs | No
+Other precautions | No
+248 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Anti Cancer Drugs (continues | No
+Interactions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Purpose | No
+Description | No
+250 | No
+Recommended dosage | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Special conditions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Side effects | No
+KEY TERMS | No
+Interactions | No
+Definition | No
+252 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Purpose | No
+Description | No
+Recommended dosage | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Precautions | No
+253 | No
+Special conditions | No
+254 | No
+* glaucoma | No
+Side effects | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Interactions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Resources | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Definition | No
+Purpose | No
+256 | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Recommended dosage | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Interactions | No
+258 | No
+Resources | No
+PERIODICALS | No
+Definition | No
+Purpose | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Recommended dosage | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Special conditions | No
+259 | No
+«asthma | No
+Side effects | No
+260 | No
++ hallucinations | No
+Interactions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Description | No
+262 | No
+Recommended dosage | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Interactions | No
+Resources | No
+PERIODICALS | No
+ORGANIZATIONS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+OTHER | No
+Definition | No
+264 | No
+Purpose | No
+Description | No
+Recommended dosage | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Special conditions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Side effects | No
+Interactions | No
+265 | No
+KEY TERMS | No
+Definition | No
+Purpose | No
+Precautions | No
+266 | No
+Description | No
+Preparation | No
+Risks | No
+Normal results | No
+Abnormal results | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Recommended dosage | No
+267 | No
+Precautions | No
+Special conditions | No
+268 | No
+Side effects | No
+Fluconazole | No
+¢ diarrhea | No
+Ketoconazole | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Systemic antifungal drugs in general | No
+Interactions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+269 | No
+KEY TERMS | No
+Definition | No
+Purpose | No
+270 | No
+Description | No
+Recommended dosage | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Interactions | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Description | No
+Recommended dosage | No
+Precautions | No
+Side effects | No
+KEY TERMS | No
+Interactions | No
+Definition | No
+Purpose | No
+272 | No
+Description | No
+Recommended dosage | No
+Precautions | No
+Side effects | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Interactions | No
+Resources | No
+ORGANIZATIONS | No
+OTHER | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Purpose | No
+Description | No
+273 | No
+KEY TERMS | No
+274 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Precautions | No
+Risks | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Purpose | No
+Description | No
+Recommended dosage | No
+Precautions | No
+276 | No
+KEY TERMS | No
+Side effects | No
+Interactions | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+DANIELE BOVET (1907-1992) | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Recommended dosage | No
+277 | No
+Antihistamines | No
+Side effects | No
+Contraindications | No
+Interactions | No
+Resources | No
+ORGANIZATIONS | No
+278 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Recommended dosage | No
+Precautions | No
+279 | No
+Antihypertensive Drugs | No
+280 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Interactions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Purpose | No
+Precautions | No
+Description | No
+Gout and hyperuricemia | No
+281 | No
+Acute gout attacks | No
+Long-term treatment | No
+Definition | No
+Purpose | No
+282 | No
+Description | No
+Recommended dosage | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Anti-Insomnia Drugs | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Special conditions | No
+Side effects | No
+Interactions | No
+284 | No
+KEY TERMS | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Recommended dosage | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Side effects | No
+Interactions | No
+Definition | No
+Purpose | No
+286 | No
+Recommended dosage | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Special conditions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Side effects | No
+287 | No
+Interactions | No
+288 | No
+KEY TERMS | No
+Resources | No
+PERIODICALS | No
+OTHER | No
+Definition | No
+Purpose | No
+Description | No
+Recommended dosage | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Ergotamine | No
+Naratriptan | No
+Sumatriptan | No
+Zolmitriptan | No
+General dosage advice | No
+Precautions | No
+Special conditions | No
+Side effects | No
+290 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Interactions | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+ORGANIZATIONS | No
+Definition | No
+Purpose | No
+291 | No
+Description | No
+Aftercare | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+292 | No
+KEY TERMS | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Recommended dosage | No
+Precautions | No
+Side effects | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Interactions | No
+Definition | No
+Purpose | No
+294 | No
+Description | No
+Preparation | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Aftercare | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+PERIODICALS | No
+Definition | No
+Purpose | No
+Description | No
+295 | No
+Recommended dosage | No
+Precautions | No
+296 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Side effects | No
+Interactions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+297 | No
+Resources | No
+ORGANIZATIONS | No
+Antiplatelet drugs see Anticoagulant and antiplatelet drugs | No
+Definition | No
+Purpose | No
+Description | No
+Recommended dosage | No
+298 | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Side effects | No
+Interactions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+299 | No
+Definition | No
+Purpose | No
+Description | No
+300 | No
+Recommended dosage | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Interactions | No
+Purpose | No
++ hallucinations | No
+Definition | No
+Recommended dosage | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Precautions | No
+Allergies | No
+Pregnancy | No
+Side effects | No
+302 | No
+KEY TERMS | No
+Interactions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+Definition | No
+Purpose | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Recommended dosage | No
+Precautions | No
+303 | No
+KEY TERMS | No
+Interactions | No
+Resources | No
+PERIODICALS | No
+ORGANIZATIONS | No
+304 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+OTHER | No
+Definition | No
+Purpose | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Recommended dosage | No
+Precautions | No
+KEY TERMS | No
+Side effects | No
+306 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Interactions | No
+Resources | No
+ORGANIZATION | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Recommended dosage | No
+Precautions | No
+KEY TERMS | No
+Interactions | No
+Resources | No
+PERIODICALS | No
+Definition | No
+308 | No
+Purpose | No
+Description | No
+Recommended dosage | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Side effects | No
+Interactions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Definition | No
+Purpose | No
+Description | No
+Recommended dosage | No
+310 | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Side effects | No
+Cycloserine | No
+Ethambutol | No
+* chills | No
+Ethionamide | No
+Isoniazid | No
+312 | No
+Pyrazinamide | No
+Rifabutin | No
+Rifampin | No
+Interactions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+PERIODICALS | No
+Definition | No
+Purpose | No
+Description | No
+Recommended dosage | No
+Interactions | No
+Precautions | No
+314 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Resources | No
+ORGANIZATIONS | No
+OTHER | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Purpose | No
+Description | No
+Recommended dosage | No
+Precautions | No
+316 | No
+KEY TERMS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Interactions | No
+Resources | No
+PERIODICALS | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Description | No
+Causes and symptoms | No
+Physical | No
+318 | No
+Learned associations | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Social and environmental stressors | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Existential anxiety | No
+Symptoms of anxiety | No
+Diagnosis | No
+Treatment | No
+320 | No
+Medications | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Psychotherapy | No
+Psychosurgery | No
+Alternative treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+KEY TERMS | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Anxiety disorders in children and adolescents | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+Diagnosis | No
+Diagnostic testing for anxiety | No
+Treatment | No
+323 | No
+Alternative treatment | No
+324 | No
+KEY TERMS | No
+Prevention | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+Diagnosis | No
+Prevention | No
+Treatment | No
+Resources | No
+BOOKS | No
+326 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+Diagnosis | No
+Treatment | No
+Prognosis | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+insufficiency | No
+Definition | No
+Description | No
+328 | No
+Causes and symptoms | No
+Diagnosis | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Prognosis | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+Cause and symptoms | No
+Diagnosis | No
+Treatment | No
+330 | No
+KEY TERMS | No
+Prevention | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+OTHER | No
+Definition | No
+Purpose | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Preparation | No
+Aftercare | No
+Normal results | No
+DR. VIRGINIA APGAR (1909-1974) | No
+Resources | No
+BOOKS | No
+Abnormal results | No
+PERIODICALS | No
+332 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+OTHER | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+334 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+336 | No
+ORGANIZATIONS | No
+Apheres see Transfusion | No
+Definition | No
+Description | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+Prognosis | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+KEY TERMS | No
+ORGANIZATIONS | No
+Definition | No
+Purpose | No
+Precautions | No
+338 | No
+Description | No
+Traditional open appendectomy | No
+Laproscopic appendectomy | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Preparation | No
+Aftercare | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Risks | No
+Normal results | No
+340 | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+PERIODICALS | No
+OTHER | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+341 | No
+Diagnosis | No
+342 | No
+Treatment | No
+Prognosis | No
+Prevention | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Purpose | No
+Description | No
+Origins | No
+GEORGE GOODHEART (1918 - ) | No
+344 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+* asthma | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Precautions | No
+Side effects | No
+Research and general acceptance | No
+346 | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+APSGN see Acute poststreptococcal glomerulonephritis | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+Diagnosis | No
+Treatment | No
+Prognosis | No
+Prevention | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+ARDS see Adult respiratory distress syndrome | No
+Definition | No
+Purpose | No
+348 | No
+Description | No
+Origins | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Inhalation | No
+Aromatherapy Oils | No
+Internal use | No
+Direct application | No
+350 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Preparations | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Side effects | No
+Research and general acceptance | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+352 | No
+Definition | No
+Description | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+Alternative treatment | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+354 | No
+KEY TERMS | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Description | No
+Causes and symptoms | No
+Diagnosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Treatment | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+Description | No
+Causes and symptoms | No
+356 | No
+KEY TERMS | No
+Diagnosis | No
+Treatment | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+Diagnosis | No
+358 | No
+Treatment | No
+Surgery | No
+Radiation | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Embolization | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Arthritis see Juvenile arthritis; Osteoarthritis; Psoriatic arthritis; Rheumatoid arthritis | No
+Definition | No
+Purpose | No
+359 | No
+Precautions | No
+Description | No
+360 | No
+Preparation | No
+Aftercare | No
+Risks | No
+Normal results | No
+Abnormal results | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Purpose | No
+Precautions | No
+Description | No
+Preparation | No
+KEY TERMS | No
+Aftercare | No
+Risks | No
+Normal results | No
+Resources | No
+BOOKS | No
+OTHER | No
+Definition | No
+362 | No
+Purpose | No
+Precautions | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Preparation | No
+Aftercare | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Risks | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+OTHER | No
+364 | No
+Definition | No
+Purpose | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Description | No
+Preparation | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Aftercare | No
+366 | No
+Risks | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+PERIODICALS | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Description | No
+Origins | No
+368 | No
+Preparations | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Precautions | No
+Research and general acceptance | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Definition | No
+Description | No
+369 | No
+Causes and symptoms | No
+370 | No
+Treatment | No
+Prognosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Prevention | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+OTHER | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Description | No
+Types of ascites | No
+371 | No
+Causes and symptoms | No
+Causes | No
+372 | No
+Symptoms | No
+Diagnosis | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Alternative treatment | No
+Prognosis | No
+Prevention | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+OTHER | No
+ASD see Atrial septal defect | No
+Definition | No
+Purpose | No
+Description | No
+374 | No
+KEY TERMS | No
+Risks | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+Asperger's syndrome see Pervasive developmental disorders | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+Diagnosis | No
+Treatment | No
+376 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Prevention | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+Purpose | No
+Description | No
+Recommended dosage | No
+Children | No
+Precautions | No
+378 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+« dizziness | No
+Side effects | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Interactions | No
+Resources | No
+PERIODICALS | No
+AST see Aspartate aminotransferase test Astemizole see Antihistamines | No
+Definition | No
+Description | No
+Child-onset asthma | No
+380 | No
+Adult-onset asthma | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+Drugs | No
+A comparison of normal bronchioles and those of an asthma sufferer. (I/lustration by Hans & Cassady.) | No
+382 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Managing asthmatic attacks | No
+Maintaining control | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Special populations | No
+Prognosis | No
+Prevention | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+384 | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+385 | No
+KEY TERMS | No
+386 | No
+Resources | No
+BOOKS | No
+Definition | No
+Purpose | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+JUDITH ASTON | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Preparations | No
+Precautions | No
+Side effects | No
+Research and general acceptance | No
+Resources | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+Causes and symptoms | No
+388 | No
+Diagnosis | No
+Treatment | No
+Prognosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Prevention | No
+Resources | No
+PERIODICALS | No
+Ataxia see Movement disorders | No
+ORGANIZATION | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Description | No
+Causes and symptoms | No
+390 | No
+Diagnosis | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Prevention | No
+ORGANIZATIONS | No
+Atenolol see Beta blockers | No
+Definition | No
+Purpose | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Precautions | No
+Description | No
+Preparation | No
+Aftercare | No
+392 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Risks | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+Description | No
+393 | No
+Causes and symptoms | No
+394 | No
+Diagnosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+396 | No
+Alternative treatment | No
+Prognosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Prevention | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Lori De Milto | No
+Athetosis see Movement disorders | No
+Definition | No
+Description | No
+398 | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+Treatment | No
+Alternative treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+Causes and symptoms | No
+400 | No
+Diagnosis | No
+Prognosis | No
+Resources | No
+BOOKS | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+DR. ROBERT C. ATKINS (1930- ) | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Preparations | No
+Precautions | No
+Side effects | No
+Resources | No
+BOOKS | No
+402 | No
+KEY TERMS | No
+PERIODICALS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+OTHER | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+403 | No
+404 | No
+Diagnosis | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Alternative treatment | No
+« Implementing stress reduction techniques in daily life. | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Prognosis | No
+Prevention | No
+405 | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+Causes and symptoms | No
+406 | No
+Diagnosis | No
+Treatment | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Description | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+Treatment | No
+408 | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+OTHER | No
+Atrial flutter see Atrial fibrillation and flutter | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Description | No
+Causes and symptoms | No
+409 | No
+KEY TERMS | No
+Treatment | No
+Resources | No
+BOOKS | No
+410 | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+411 | No
+Drugs Used To Treat ADHD | No
+Treatment | No
+412 | No
+Alternative treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Prognosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+413 | No
+Definition | No
+Purpose | No
+414 | No
+Precautions | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Preparation | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+Origins | No
+ALFRED TOMATIS (1920- ) | No
+Description | No
+416 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Purpose | No
+Research and general acceptance | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+OTHER | No
+Definition | No
+Description | No
+Causes and symptoms | No
+418 | No
++ fragile X syndrome | No
+* untreated phenylketonuria. | No
+Language problems | No
+Restricted interests and activity | No
+Sensory problems | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Intellectual problems | No
+Diagnosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Treatment | No
+Medication | No
+Educational or behavioral treatment | No
+Alternative treatment | No
+420 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+DMG (dimethylglycine) | No
+Exercise | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+PERIODICALS | No
+ORGANIZATIONS | No
+OTHER | No
+Autograft see Skin grafting | No
+Definition | No
+Description | No
+422 | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+423 | No
+Diagnosis | No
+424 | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Autoimmune hepatitis see Hepatitis, autoimmune | No
+transplantation | No
+Definition | No
+Purpose | No
+Precautions | No
+425 | No
+KEY TERMS | No
+Description | No
+426 | No
+Preparation | No
+Aftercare | No
+Risks | No
+Normal results | No
+Abnormal results | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+Purpose | No
+Description | No
+Pressure changes | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Gravity’s impact | No
+Motion sickness | No
+Bone and muscle loss | No
+KEY TERMS | No
+Radiation | No
+Cardiovascular issues | No
+428 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+OTHER | No
+AVM see Arteriovenous malformations | No
+Personality disorders | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+DEEPAK CHOPRA (1946- ) | No
+Purpose | No
+Description | No
+Origins | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Ayurvedic Body Types | No
+Key ideas | No
+Diagnosis | No
+430 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+Cost | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Preparations | No
+Precautions | No
+Side effects | No
+Research and general acceptance | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+OTHER | No
+AZT see Antiretroviral drugs | No
+Definition | No
+Description | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+Treatment | No
+Prognosis | No
+Prevention | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+OTHER | No
+Definition | No
+Description | No
+434 | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Treatment | No
+Prognosis | No
+Prevention | No
+Resources | No
+PERIODICALS | No
+Definition | No
+Description | No
+Causes and symptoms | No
+Causes | No
+Symptoms | No
+Diagnosis | No
+Treatment | No
+436 | No
+KEY TERMS | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+OTHER | No
+Definition | No
+Description | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Treatment | No
+Alternative treatment | No
+Prognosis | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Definition | No
+Purpose | No
+Precautions | No
+Description | No
+438 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Preparation | No
+Aftercare | No
+Risks | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+Causes and symptoms | No
+Diagnosis | No
+Treatment | No
+Alternative treatment | No
+440 | No
+KEY TERMS | No
+Prevention | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Stool examination | No
+Sigmoidoscopy | No
+Treatment | No
+Prognosis | No
+Prevention | No
+441 | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+Definition | No
+442 | No
+Purpose | No
+Description | No
+Preparation | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Aftercare | No
+Risks | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+OTHER | No
+Definition | No
+Purpose | No
+Precautions | No
+KEY TERMS | No
+Description | No
+444 | No
+Preparation | No
+Risks | No
+Normal results | No
+Resources | No
+PERIODICALS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Purpose | No
+Description | No
+Recommended dosage | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Special conditions | No
+446 | No
+Side effects | No
++ hallucinations | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Interactions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+PERIODICALS | No
+Definition | No
+Purpose | No
+447 | No
+Precautions | No
+Description | No
+448 | No
+Aftercare | No
+Risks | No
+Normal results | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+Causes and symptoms | No
+KEY TERMS | No
+Diagnosis | No
+Treatment | No
+450 | No
+Alternative treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Prevention | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+Judith Sims | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Causes and symptoms | No
+Diagnosis | No
+Treatment | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+452 | No
+PERIODICALS | No
+Definition | No
+Description | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+Treatment | No
+Prognosis | No
+Prevention | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+Causes and symptoms | No
+454 | No
+Diagnosis | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Alternative treatment | No
+Massage | No
+Herbal and homeopathic remedies | No
+Hypnosis | No
+Prognosis | No
+455 | No
+KEY TERMS | No
+Prevention | No
+456 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+Treatment | No
+Alternative treatment | No
+458 | No
+Prevention | No
+Prognosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+Diagnosis | No
+Treatment | No
+Prognosis | No
+459 | No
+KEY TERMS | No
+Prevention | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Definition | No
+460 | No
+Description | No
+Causes and symptoms | No
+Diagnosis | No
+Treatment | No
+Prognosis | No
+Prevention | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+461 | No
+Diagnosis | No
+462 | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Alternative treatment | No
+Prevention | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Resources | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Benazepril see Angiotensin-converting enzyme inhibitors | No
+Definition | No
+KEY TERMS | No
+Purpose | No
+Description | No
+464 | No
+Preparation | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Purpose | No
+Precautions | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Normal results | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Bends see Decompression sickness Benign see Uterine fibroids | No
+prostate | No
+prostate | No
+Definition | No
+Purpose | No
+466 | No
+Recommended dosage | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Special conditions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+* glaucoma | No
+Side effects | No
+KEY TERMS | No
+468 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Interactions | No
+Resources | No
+OTHER | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+469 | No
+Diagnosis | No
+470 | No
+Treatment | No
+Alternative treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Prognosis | No
+Prevention | No
+Dietary Requirements | No
+Food Sources | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+Definition | No
+Description | No
+Causes and symptoms | No
+472 | No
+Diagnosis | No
+Treatment | No
+Prognosis | No
+Prevention | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Purpose | No
+Description | No
+KEY TERMS | No
+Preparation | No
+Aftercare | No
+Normal results | No
+Abnormal results | No
+474 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+Definition | No
+Purpose | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Recommended dosage | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Special conditions | No
+475 | No
+476 | No
+Side effects | No
+Interactions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Description | No
+Causes and symptoms | No
+477 | No
+KEY TERMS | No
+Symptoms | No
+478 | No
+Diagnosis | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Clinical trials | No
+Prevention | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+479 | No
+Causes and symptoms | No
+Diagnosis | No
+Treatment | No
+480 | No
+KEY TERMS | No
+Prognosis | No
+Prevention | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+Definition | No
+Description | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+Treatment | No
+Prognosis | No
+481 | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+482 | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Preparations | No
+Precautions | No
+484 | No
+Side effects | No
+Research and general acceptance | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+Causes and symptoms | No
+486 | No
+Diagnosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+488 | No
+Alternative treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+PERIODICALS | No
+Prevention | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Birth control see Condom; Contraception; Diaphragm (birth control) | No
+Definition | No
+Description | No
+Causes and symptoms | No
+490 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Genetic factors | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+491 | No
+492 | No
+Diagnosis | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Prognosis | No
+Prevention | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+Description | No
+493 | No
+Causes and symptoms | No
+494 | No
+Vascular malformations | No
+Diagnosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+Watchful waiting | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Other treatments | No
+495 | No
+KEY TERMS | No
+Alternative treatment | No
+Prognosis | No
+496 | No
+Prevention | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+Mammals | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Arthropods | No
+497 | No
+Snakes | No
+Marine animals | No
+Causes and symptoms | No
+Mammals | No
+498 | No
+Arthropods | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Snakes | No
+Marine animals | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+Mammals | No
+499 | No
+Arthropods | No
+Snakes | No
+Treatment | No
+Mammals | No
+500 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Arthropods | No
+Snakes | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+501 | No
+Marine animals | No
+502 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Alternative treatment | No
+Arthropods | No
+Prognosis | No
+Mammals | No
+Arthropods | No
+Snakes | No
+Marine animals | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Prevention | No
+Mammals | No
+Arthropods | No
+Snakes | No
+503 | No
+KEY TERMS | No
+PERIODICALS | No
+Marine animals | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+504 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+OTHER | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+505 | No
+KEY TERMS | No
+Diagnosis | No
+Treatment | No
+506 | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Bladder cancer on the inner lining of the bladder. (///ustration by Argosy Inc.) | No
+Causes and symptoms | No
+Diagnosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+507 | No
+Treatment | No
+508 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Prevention | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+ORGANIZATIONS | No
+OTHER | No
+Bladder removal see Cystectomy Bladder resection see Transurethral bladder resection | No
+Definition | No
+Description | No
+510 | No
+Causes and symptoms | No
+Diagnosis | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Alternative treatment | No
+Prevention | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+Purpose | No
+Precautions | No
+511 | No
+KEY TERMS | No
+Description | No
+Preparation | No
+Risks | No
+Normal results | No
+512 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+Alternative treatment | No
+KEY TERMS | No
+Prognosis | No
+Prevention | No
+Resources | No
+ORGANIZATIONS | No
+514 | No
+OTHER | No
+Definition | No
+Purpose | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Description | No
+Preparation | No
+Aftercare | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+Definition | No
+KEY TERMS | No
+Description | No
+Causes and symptoms | No
+Diagnosis | No
+Treatment | No
+516 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Alternative treatment | No
+Prognosis | No
+Prevention | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+Purpose | No
+Precautions | No
+Description | No
+Preparation | No
+Aftercare | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Risks | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Blindness see Visual impairment | No
+Definition | No
+Purpose | No
+KEY TERMS | No
+Description | No
+Recommended dosage | No
+Precautions | No
+520 | No
+Side effects | No
+Interactions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Purpose | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+Blood crossmatching see Blood typing and crossmatching | No
+Definition | No
+Purpose | No
+Description | No
+Culture strategies | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Laboratory analysis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+523 | No
+KEY TERMS | No
+Preparation | No
+Aftercare | No
+Normal results | No
+524 | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Purpose | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Description | No
+KEY TERMS | No
+Preparation | No
+Aftercare | No
+Risks | No
+526 | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+The procedure | No
+KEY TERMS | No
+Preparation | No
+Aftercare | No
+Risks | No
+Normal results | No
+528 | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+registry | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Description | No
+Whole blood glucose test | No
+Fasting plasma glucose test | No
+Oral glucose tolerance test | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Two-hour postprandial blood glucose test | No
+Preparation | No
+Aftercare | No
+Risks | No
+Normal results | No
+530 | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Blood thinners see Anticoagulant and antiplatelet drugs | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Purpose | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+532 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Crossmatching | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Preparation | No
+Aftercare | No
+534 | No
+Risks | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Purpose | No
+Description | No
+Preparation | No
+Aftercare | No
+Risks | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+Definition | No
+Description | No
+Causes and symptoms | No
+536 | No
+Diagnosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+Patient and family education | No
+Medications | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Surgical treatment | No
+Alternative treatment | No
+Naturopathic therapy | No
+Homeopathy | No
+Western herbal therapies | No
+KEY TERMS | No
+Prognosis | No
+Prevention | No
+538 | No
+Resources | No
+BOOKS | No
+Definition | No
+Purpose | No
+Precautions | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Aftercare | No
+Risks | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+540 | No
+Purpose | No
+Description | No
+Preparation | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Risks | No
+Normal results | No
+Abnormal results | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+542 | No
+Recommended dosage | No
+Alendronate | No
+Calcitonin | No
+Raloxifene | No
+Precautions | No
+Aldendronate | No
+Calcitonin | No
+Raloxifene | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+General precautions for bone disorder drugs | No
+Side effects | No
+Aldendronate | No
+Calcitonin | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Raloxifene | No
+Interactions | No
+Aldendronate | No
+Calcitonin | No
+Raloxifene | No
+Resources | No
+ORGANIZATIONS | No
+Definition | No
+Purpose | No
+544 | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Aftercare | No
+Risks | No
+Resources | No
+PERIODICALS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+ORGANIZATIONS | No
+Definition | No
+Purpose | No
+Precautions | No
+Description | No
+546 | No
+Invasive stimulators | No
+Noninvasive stimulators | No
+Preparation | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Aftercare | No
+Risks | No
+Normal results | No
+Resources | No
+PERIODICALS | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Purpose | No
+Precautions | No
+547 | No
+548 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Aftercare | No
+Risks | No
+Normal results | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+ORGANIZATION | No
+OTHER | No
+Definition | No
+550 | No
+Precautions | No
+Description | No
+Autologous and allogeneic transplants | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+HLA matching | No
+Peripheral blood stem cell transplants | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+The transplant procedure | No
+KEY TERMS | No
+552 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Costs | No
+Aftercare | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Risks | No
+Normal results | No
+554 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Precautions | No
+555 | No
+KEY TERMS | No
+Preparation | No
+Aftercare | No
+Normal results | No
+Abnormal results | No
+556 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+Definition | No
+Purpose | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Preparation | No
+Aftercare | No
+Risks | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+KEY TERMS | No
+PERIODICALS | No
+OTHER | No
+Borderline personality disorder see Personality disorders | No
+disease | No
+Definition | No
+Purpose | No
+Precautions | No
+Description | No
+Preparation | No
+Risks | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Normal results | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+OTHER | No
+Definition | No
+Description | No
+559 | No
+Causes and symptoms | No
+Causes | No
+560 | No
+Diagnosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Treatment | No
+Drugs | No
+Respiratory support | No
+Surgery | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Gastric lavage | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+562 | No
+Bovine spongiform encephalopathy Creutzfeldt-Jakob disease | No
+Definition | No
+Purpose | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Description | No
+Preparation | No
+Aftercare | No
+Risks | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Definition | No
+Purpose | No
+Description | No
+Preparation | No
+KEY TERMS | No
+Aftercare | No
+564 | No
+Risks | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+ORGANIZATIONS | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Description | No
+Normal results | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+Braces see Immobilization | No
+Definition | No
+Description | No
+566 | No
+Causes and symptoms | No
+Diagnosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+Prevention | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Resources | No
+BOOKS | No
+Definition | No
+Purpose | No
+Precautions | No
+Description | No
+KEY TERMS | No
+Preparation | No
+Aftercare | No
+Risks | No
+568 | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+Doppler ultrasonography | No
+Definition | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Description | No
+Benign brain tumors | No
+Malignant brain tumors | No
+Primary brain tumors | No
+Metastatic or secondary brain tumors | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Who gets brain tumors | No
+Naming and grading brain tumors | No
+Types of brain tumors | No
+Non-glial brain tumors | No
+570 | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+Surgery | No
+572 | No
+Radiation therapy | No
+Chemotherapy | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Other treatments | No
+Potential therapies | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Alternative treatment | No
+Prognosis | No
+KEY TERMS | No
+Consequences of radiation therapy | No
+Consequences of chemotherapy | No
+Inoperable tumors | No
+Prevention | No
+574 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+OTHER | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Definition | No
+Purpose | No
+Precautions | No
+Surgical biopsy | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Needle biopsy | No
+575 | No
+Aftercare | No
+Risks | No
+576 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+ORGANIZATIONS | No
+Definition | No
+Description | No
+577 | No
+How breast cancer spreads | No
+578 | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+When a patient has no signs or symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+579 | No
+When a patient has physical signs or symptoms | No
+580 | No
+Other tests | No
+Treatment | No
+Staging | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+582 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Prognosis | No
+Coping with cancer treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Clinical trials | No
+584 | No
+Prevention | No
+Special Concerns | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Precautions | No
+Description | No
+585 | No
+Preparation | No
+Aftercare | No
+Risks | No
+Normal results | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Definition | No
+Purpose | No
+Precautions | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Timing, immediate or delayed reconstruction | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Type of reconstruction | No
+587 | No
+Insurance | No
+Finishing the reconstruction | No
+588 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Aftercare | No
+Risks | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Normal results | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+590 | No
+Definition | No
+Purpose | No
+Precautions | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Aftercare | No
+Risks | No
+Normal results | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+Breast self-examination | No
+Definition | No
+Purpose | No
+Description | No
+591 | No
+Preparation | No
+Normal results | No
+Abnormal results | No
+Beth A. Kapes | No
+Resources | No
+BOOKS | No
+592 | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Normal results | No
+Abnormal results | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+Ellen S. Weber | No
+Definition | No
+594 | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+595 | No
+Prevention | No
+Resources | No
+BOOKS | No
+imperfecta | No
+Definition | No
+Description | No
+596 | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Prognosis | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Bronchiolitis see Respiratory syncytial virus infection | No
+Definition | No
+Description | No
+Causes and symptoms | No
+Acute bronchitis | No
+598 | No
+Chronic bronchitis | No
+Diagnosis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Treatment | No
+Acute bronchitis | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Chronic bronchitis | No
+599 | No
+Alternative treatment | No
+Prevention | No
+600 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Description | No
+Recommended dosage | No
+Precautions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Special conditions | No
+KEY TERMS | No
+Side effects | No
+602 | No
+Interactions | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+PERIODICALS | No
+ORGANIZATIONS | No
+Definition | No
+Purpose | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Precautions | No
+Description | No
+604 | No
+Alternative procedures | No
+Preparation | No
+Aftercare | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Risks | No
+Normal results | No
+Abnormal results | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+ORGANIZATION | No
+Definition | No
+Description | No
+Causes and symptoms | No
+605 | No
+KEY TERMS | No
+606 | No
+Diagnosis | No
+Treatment | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+PERIODICALS | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+607 | No
+Diagnosis | No
+Treatment | No
+Alternative treatment | No
+608 | No
+Prevention | No
+Resources | No
+BOOKS | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+Diagnosis | No
+Treatment | No
+Alternative treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Prevention | No
+Resources | No
+ORGANIZATIONS | No
+Definition | No
+KEY TERMS | No
+Description | No
+Causes and symptoms | No
+610 | No
+Diagnosis | No
+Treatment | No
+Surgery | No
+Drugs | No
+Prognosis | No
+Prevention | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Resources | No
+BOOKS | No
+Definition | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Treatment | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+Definition | No
+Description | No
+Causes and symptoms | No
+Causes | No
+612 | No
+Symptoms | No
+Diagnosis | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Alternative treatment | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+ORGANIZATIONS | No
+Bulla see Skin lesions | No
+Definition | No
+KEY TERMS | No
+Description | No
+Causes and symptoms | No
+614 | No
+Treatment | No
+Prognosis | No
+Resources | No
+BOOKS | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Diagnosis | No
+Treatment | No
+Conservative | No
+615 | No
+KEY TERMS | No
+Surgery | No
+Alternative treatment | No
+616 | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+Description | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Causes and symptoms | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+617 | No
+Classification Of Burns | No
+Treatment | No
+Thermal burn treatment | No
+618 | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Chemical burn treatment | No
+Electrical burn treatment | No
+Alternative treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Prognosis | No
+Prevention | No
+619 | No
+Resources | No
+BOOKS | No
+ORGANIZATIONS | No
+OTHER | No
+Definition | No
+620 | No
+Description | No
+Causes and symptoms | No
+Diagnosis | No
+Treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+Alternative treatment | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+KEY TERMS | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+PERIODICALS | No
+OTHER | No
+Bypass surgery see Coronary artery bypass graft surgery | No
+Definition | No
+Description | No
+Causes and symptoms | No
+622 | No
+KEY TERMS | No
+Diagnosis | No
+Treatment | No
+Prognosis | No
+Prevention | No
+Resources | No
+BOOKS | No
+GALE ENCYCLOPEDIA OF MEDICINE 2 | No
+ORGANIZATIONS | No
+OTHER | No

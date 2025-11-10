@@ -1,0 +1,339 @@
+0 | Title | Caffeine | Yes
+55 | Title | Calcium channel blockers | Yes
+142 | Title | Campylobacteriosis | Yes
+199 | Title | Cancer | Yes
+361 | Title | Cancer therapy, definitive | Yes
+438 | Title | Cancer therapy, palliative | Yes
+481 | Title | Cancer therapy, supportive | Yes
+583 | Title | Candidiasis | Yes
+647 | Title | Canker sores | Yes
+678 | Title | Carbohydrate intolerance | Yes
+736 | Title | Carbon monoxide poisoning | Yes
+816 | Title | Carcinoembryonic antigen test | Yes
+858 | Title | Cardiac blood pool scan | Yes
+894 | Title | Cardiac catheterization | Yes
+998 | Title | Cardiac rehabilitation | Yes
+1040 | Title | Cardiac tamponade | Yes
+1072 | Title | Cardiopulmonary resuscitation (CPR) | Yes
+1195 | Title | Cardioversion | Yes
+1231 | Title | Carotid sinus massage | Yes
+1262 | Title | Carpal tunnel syndrome | Yes
+1307 | Title | Cat-scratch disease | Yes
+1349 | Title | Cataract surgery | Yes
+1396 | Title | Cataracts | Yes
+1463 | Title | Catatonia | Yes
+1502 | Title | Catecholamines tests | Yes
+1546 | Title | Catheter ablation | Yes
+1597 | Title | Celiac disease | Yes
+1660 | Title | Cellulitis | Yes
+1713 | Title | Cell therapy | Yes
+1772 | Title | Central nervous system depressants | Yes
+1800 | Title | Central nervous system infections | Yes
+1853 | Title | Central nervous system stimulants | Yes
+1895 | Title | Cephalosporins | Yes
+1968 | Title | Cerebral amyloid angiopathy | Yes
+2037 | Title | Cerebral aneurysm | Yes
+2111 | Title | Cerebral palsy | Yes
+2249 | Title | Cerebrospinal fluid (CSF) analysis | Yes
+2326 | Title | Cerumen impaction | Yes
+2374 | Title | Cervical cancer | Yes
+2556 | Title | Cervical conization | Yes
+2595 | Title | Cervical disk disease | Yes
+2637 | Title | Cervical spondylosis | Yes
+2705 | Title | Cervicitis | Yes
+2750 | Title | Cesarean section | Yes
+2829 | Title | Chagas’ disease | Yes
+2870 | Title | Chancroid | Yes
+2916 | Title | Charcoal, activated | Yes
+2974 | Title | Charcot Marie Tooth disease | Yes
+3062 | Title | Charcot’s joints | Yes
+3087 | Title | Chelation therapy | Yes
+3132 | Title | Chemonucleolysis | Yes
+3175 | Title | Chemotherapy | Yes
+3285 | Title | Chest drainage therapy | Yes
+3328 | Title | Chest physical therapy | Yes
+3408 | Title | Chest x ray | Yes
+3472 | Title | Chickenpox | Yes
+3554 | Title | Child abuse | Yes
+3624 | Title | Childbirth | Yes
+3751 | Title | Children’s health | Yes
+3894 | Title | Chiropractic | Yes
+3968 | Title | Chlamydial pneumonia | Yes
+4011 | Title | Choking | Yes
+4053 | Title | Cholangitis | Yes
+4134 | Title | Cholecystectomy | Yes
+4173 | Title | Cholecystitis | Yes
+4230 | Title | Cholera | Yes
+4280 | Title | Cholestasis | Yes
+4368 | Title | Cholesterol, high | Yes
+4437 | Title | Cholesterol-reducing drugs | Yes
+4541 | Title | Cholesterol test | Yes
+4611 | Title | Cholinergic drugs | Yes
+4653 | Title | Chondromalacia patellae | Yes
+4694 | Title | Choriocarcinoma | Yes
+4759 | Title | Chorionic villus sampling | Yes
+4831 | Title | Chronic fatigue syndrome | Yes
+4936 | Title | Chronic granulomatous disease | Yes
+4977 | Title | Chronic kidney failure | Yes
+5055 | Title | Chronic obstructive lung disease | Yes
+5171 | Title | Circumcision | Yes
+5222 | Title | Cirrhosis | Yes
+5348 | Title | Cleft lip and palate | Yes
+5402 | Title | Clenched fist injury | Yes
+5448 | Title | Clubfoot | Yes
+5506 | Title | Cluster headache | Yes
+5553 | Title | Coagulation disorders | Yes
+5645 | Title | Coarctation of the aorta | Yes
+5671 | Title | Cocaine | Yes
+5769 | Title | Coccidioidomycosis | Yes
+5867 | Title | Cochlear implants | Yes
+5929 | Title | Cognitive-behavioral therapy | Yes
+6015 | Title | Cold agglutinins test | Yes
+6045 | Title | Cold sore | Yes
+6108 | Title | Colic | Yes
+6188 | Title | Colon cancer | Yes
+6330 | Title | Colonic irrigation | Yes
+6400 | Title | Colonoscopy | Yes
+6458 | Title | Color blindness | Yes
+6520 | Title | Colostomy | Yes
+6590 | Title | Colposcopy | Yes
+6647 | Title | Coma | Yes
+6703 | Title | Common cold | Yes
+6794 | Title | Common variable immunodeficiency | Yes
+6817 | Title | Complement deficiencies | Yes
+6862 | Title | Computed tomography scans | Yes
+6960 | Title | Concussion | Yes
+7032 | Title | Condom | Yes
+7069 | Title | Conduct disorder | Yes
+7141 | Title | Congenital adrenal hyperplasia | Yes
+7212 | Title | Congenital amputation | Yes
+7256 | Title | Congenital bladder anomalies | Yes
+7296 | Title | Congenital brain defects | Yes
+7367 | Title | Congenital hip dysplasia | Yes
+7405 | Title | Congenital lobar emphysema | Yes
+7456 | Title | Congenital ureter anomalies | Yes
+7505 | Title | Congestive cardiomyopathy | Yes
+7611 | Title | Congenital heart disease | Yes
+7698 | Title | Conjunctivitis | Yes
+7766 | Title | Constipation | Yes
+7868 | Title | Contact dermatitis | Yes
+7923 | Title | Contraception | Yes
+7990 | Title | Contractures | Yes
+8034 | Title | Cooling treatments | Yes
+8060 | Title | Coombs’ tests | Yes
+8108 | Title | Cor pulmonale | Yes
+8145 | Title | Corneal abrasion | Yes
+8174 | Title | Corneal transplantation | Yes
+8239 | Title | Corneal ulcers | Yes
+8284 | Title | Corns and calluses | Yes
+8355 | Title | Coronary artery bypass graft surgery | Yes
+8448 | Title | Coronary artery disease | Yes
+8573 | Title | Coronary stenting | Yes
+8611 | Title | Corticosteroids | Yes
+8673 | Title | Cortisol tests | Yes
+8717 | Title | Cosmetic dentistry | Yes
+8752 | Title | Costochondritis | Yes
+8782 | Title | Cough | Yes
+8836 | Title | Cough suppressants | Yes
+8889 | Title | Craniosacral therapy | Yes
+8936 | Title | Craniotomy | Yes
+8982 | Title | Creatine kinase test | Yes
+9022 | Title | Creatinine test | Yes
+9067 | Title | Creutzfeldt-Jakob disease | Yes
+9164 | Title | Cri du chat syndrome | Yes
+9215 | Title | Crohn’s disease | Yes
+9292 | Title | Croup | Yes
+9334 | Title | Cryoglobulin test | Yes
+9370 | Title | Cryotherapy | Yes
+9416 | Title | Cryptococcosis | Yes
+9481 | Title | Cryptosporidiosis | Yes
+9534 | Title | CT-guided biopsy | Yes
+9567 | Title | Culture-fair test | Yes
+9602 | Title | Cushing’s syndrome | Yes
+9711 | Title | Cutaneous larva migrans | Yes
+9746 | Title | Cutaneous T-cell lymphoma | Yes
+9807 | Title | Cutis laxa | Yes
+9860 | Title | Cyanosis | Yes
+9890 | Title | Cyclic vomiting syndrome | Yes
+9921 | Title | Cyclosporiasis | Yes
+9966 | Title | Cystectomy | Yes
+9998 | Title | Cystic fibrosis | Yes
+10120 | Title | Cystinuria | Yes
+10164 | Title | Cystitis | Yes
+10253 | Title | Cystometry | Yes
+10288 | Title | Cystoscopy | Yes
+10358 | Title | Cytomegalovirus antibody screening test | Yes
+10398 | Title | Cytomegalovirus infection | Yes
+10451 | Title | Dacryocystitis | Yes
+10490 | Title | Death | Yes
+10566 | Title | Debridement | Yes
+10617 | Title | Decompression sickness | Yes
+10663 | Title | Decongestants | Yes
+10753 | Title | Deep vein thrombosis | Yes
+10797 | Title | Defibrillation | Yes
+10841 | Title | Dehydration | Yes
+10918 | Title | Delayed hypersensitivity skin test | Yes
+10964 | Title | Delirium | Yes
+11048 | Title | Delusions | Yes
+11095 | Title | Dementia | Yes
+11179 | Title | Dengue fever | Yes
+11222 | Title | Dental trauma | Yes
+11270 | Title | Depo-Provera/Norplant | Yes
+11312 | Title | Depressive disorders | Yes
+11410 | Title | Dermatitis | Yes
+11506 | Title | DES exposure | Yes
+11546 | Title | Detoxification | Yes
+11625 | Title | Deviated septum | Yes
+11661 | Title | Diabetes insipidus | Yes
+11712 | Title | Diabetes mellitus | Yes
+11859 | Title | Diabetic foot infections | Yes
+11921 | Title | Diabetic ketoacidosis | Yes
+11985 | Title | Diabetic neuropathy | Yes
+12055 | Title | Dialysis, kidney | Yes
+12140 | Title | Diaper rash | Yes
+12195 | Title | Diaphragm (birth control) | Yes
+12236 | Title | Diarrhea | Yes
+12329 | Title | Diets | Yes
+12372 | Title | Diffuse esophageal spasm | Yes
+12400 | Title | DiGeorge syndrome | Yes
+12450 | Title | Digitalis drugs | Yes
+12511 | Title | Dilatation and curettage | Yes
+12556 | Title | Diphtheria | Yes
+12635 | Title | Discoid lupus erythematosus | Yes
+12688 | Title | Disk removal | Yes
+12742 | Title | Dislocations and subluxations | Yes
+12798 | Title | Dissociative disorders | Yes
+12881 | Title | Diuretics | Yes
+12959 | Title | Diverticulosis and diverticulitis | Yes
+13075 | Title | Dizziness | Yes
+13135 | Title | Doppler ultrasonography | Yes
+13174 | Title | Down syndrome | Yes
+13258 | Title | Drug metabolism/interactions | Yes
+13337 | Title | Drug overdose | Yes
+13413 | Title | Drug therapy monitoring | Yes
+13472 | Title | Drugs used in labor | Yes
+13498 | Title | Dry mouth | Yes
+13534 | Title | Duodenal obstruction | Yes
+13576 | Title | Dysfunctional uterine bleeding | Yes
+13673 | Title | Dyslexia | Yes
+13731 | Title | Dysmenorrhea | Yes
+13792 | Title | Dyspepsia | Yes
+13834 | Title | Ear exam with an otoscope | Yes
+13869 | Title | Ear surgery | Yes
+13942 | Title | Echinacea | Yes
+13991 | Title | Echinococcosis | Yes
+14042 | Title | Echocardiography | Yes
+14092 | Title | Ectopic pregnancy | Yes
+14166 | Title | Edema | Yes
+14227 | Title | Edwards’ syndrome | Yes
+14262 | Title | Ehlers-Danlos syndrome | Yes
+14379 | Title | Ehrlichiosis | Yes
+14410 | Title | Electric shock injuries | Yes
+14451 | Title | Electrical nerve stimulation | Yes
+14498 | Title | Electrical stimulation of the brain | Yes
+14551 | Title | Electrocardiography | Yes
+14608 | Title | Electroconvulsive therapy | Yes
+14662 | Title | Electroencephalography | Yes
+14710 | Title | Electrolyte disorders | Yes
+14866 | Title | Electrolyte tests | Yes
+14911 | Title | Electromyography | Yes
+14963 | Title | Electronic fetal monitoring | Yes
+15014 | Title | Electrophysiology study of the heart | Yes
+15114 | Title | Elephantiasis | Yes
+15196 | Title | Embolism | Yes
+15289 | Title | Emphysema | Yes
+15358 | Title | Empyema | Yes
+15408 | Title | Encephalitis | Yes
+15493 | Title | Endarterectomy | Yes
+15562 | Title | Endocarditis | Yes
+15632 | Title | Endometrial biopsy | Yes
+15676 | Title | Endometrial cancer | Yes
+15781 | Title | Endometriosis | Yes
+15857 | Title | Endorectal ultrasound | Yes
+15900 | Title | Endoscopic retrograde cholangiopancreatography | Yes
+15955 | Title | Endoscopic sphincterotomy | Yes
+15999 | Title | Enemas | Yes
+16045 | Title | Enlarged prostate | Yes
+16111 | Title | Enterobacterial infections | Yes
+16193 | Title | Enterobiasis | Yes
+16240 | Title | Enterostomy | Yes
+16316 | Title | Enterovirus infections | Yes
+16375 | Title | Enzyme therapy | Yes
+16455 | Title | Eosinophilic pneumonia | Yes
+16480 | Title | Epidermolysis bullosa | Yes
+16531 | Title | Epididymitis | Yes
+16581 | Title | Epiglottitis | Yes
+16628 | Title | Episiotomy | Yes
+16675 | Title | Epstein-Barr virus test | Yes
+16731 | Title | Erysipelas | Yes
+16767 | Title | Erythema multiforme | Yes
+16791 | Title | Erythema nodosum | Yes
+16816 | Title | Erythroblastosis fetalis | Yes
+16889 | Title | Erythrocyte sedimentation rate | Yes
+16924 | Title | Erythromycins | Yes
+16987 | Title | Erythropoietin test | Yes
+17029 | Title | Escherichia coli | Yes
+17109 | Title | Esophageal atresia | Yes
+17136 | Title | Esophageal cancer | Yes
+17214 | Title | Esophageal function tests | Yes
+17270 | Title | Esophageal pouches | Yes
+17313 | Title | Esophagogastroduodenoscopy | Yes
+17372 | Title | Evoked potential studies | Yes
+17410 | Title | Exercise | Yes
+17483 | Title | Exophthalmos | Yes
+17519 | Title | Expectorants | Yes
+17563 | Title | External sphincter electromyography | Yes
+17608 | Title | Extracorporeal membrane oxygenation | Yes
+17680 | Title | Eye and orbit ultrasounds | Yes
+17747 | Title | Eye cancer | Yes
+17798 | Title | Eye examination | Yes
+17890 | Title | Eye glasses and contact lenses | Yes
+17995 | Title | Eye muscle surgery | Yes
+18045 | Title | Eyelid disorders | Yes
+18136 | Title | Face lift | Yes
+18184 | Title | Factitious disorders | Yes
+18232 | Title | Failure to thrive | Yes
+18264 | Title | Fainting | Yes
+18322 | Title | Familial Mediterranean fever | Yes
+18428 | Title | Familial polyposis | Yes
+18476 | Title | Family therapy | Yes
+18552 | Title | Fanconi’s syndrome | Yes
+18603 | Title | Fasciotomy | Yes
+18636 | Title | Fasting | Yes
+18689 | Title | Fatigue | Yes
+18768 | Title | Fatty liver | Yes
+18805 | Title | Fecal incontinence | Yes
+18863 | Title | Fecal occult blood test | Yes
+18923 | Title | Feldenkrais method | Yes
+18989 | Title | Female genital mutilation | Yes
+19042 | Title | Female sexual arousal disorder | Yes
+19102 | Title | Fetal alcohol syndrome | Yes
+19165 | Title | Fetal hemoglobin test | Yes
+19201 | Title | Fever | Yes
+19247 | Title | Fever evaluation tests | Yes
+19262 | Title | Fever of unknown origin | Yes
+19315 | Title | Fibrin split products | Yes
+19357 | Title | Fibrinogen test | Yes
+19401 | Title | Fibroadenoma | Yes
+19464 | Title | Fibrocystic condition of the breast | Yes
+19565 | Title | Fibromyalgia | Yes
+19610 | Title | Fifth disease | Yes
+19655 | Title | Filariasis | Yes
+19727 | Title | Fingertip injuries | Yes
+19768 | Title | Fish and shellfish poisoning | Yes
+19835 | Title | Flesh-eating disease | Yes
+19888 | Title | Flower remedies | Yes
+20006 | Title | Fluke infections | Yes
+20073 | Title | Fluoroquinolones | Yes
+20160 | Title | Folic acid | Yes
+20213 | Title | Folic acid deficiency anemia | Yes
+20284 | Title | Follicle-stimulating hormone test | Yes
+20332 | Title | Folliculitis | Yes
+20384 | Title | Food poisoning | Yes
+20484 | Title | Foot care | Yes
+20515 | Title | Foreign objects | Yes
+20582 | Title | Fracture repair | Yes
+20623 | Title | Fractures | Yes
+20707 | Title | Fragile X syndrome | Yes
+20762 | Title | Friedreich’s ataxia | Yes
+20799 | Title | Frostbite and frostnip | Yes
